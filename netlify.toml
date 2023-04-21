@@ -7,3 +7,6 @@
   from = "/search/*"
   to = "/.netlify/functions/search/:splat"
   status = 200
+
+[functions]
+node_bundler = "esbuild"
