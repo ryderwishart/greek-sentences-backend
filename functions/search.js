@@ -4,7 +4,6 @@ const fs = require('fs').promises;
 const path = require('path');
 const app = express();
 
-
 import { odonnell_corpus, hellenistic_corpus } from './public/corpora';
 import metaDataArray from './public/data/hellenistic_author_metadata.json';
 import fallbackMetaData from './public/data/1bc-1ad-meta.json'
@@ -46,7 +45,7 @@ const hellenistic_author_dict = Object.fromEntries(hellenistic_corpus.map(entry 
 // const dataPath = './public/data/json_sentence_pairs';
 
 async function* readFromJsonFiles(searchTerms, useOdonnellCorpusFlag = false) {
-    const dataPath = path.join(process.cwd(), 'public/data/json_sentence_pairs');
+    const dataPath = path.join(__dirname, 'public/data/json_sentence_pairs');
     const jsonPath = dataPath
     const jsonFiles = await fs.readdir(jsonPath);
 
