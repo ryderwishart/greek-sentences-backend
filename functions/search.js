@@ -1,11 +1,13 @@
 const express = require('express');
 const serverless = require('serverless-http');
+const fs = require('fs').promises;
+const path = require('path');
 const app = express();
 
 
-import { odonnell_corpus, hellenistic_corpus } from '../../public/corpora';
-import metaDataArray from '../../public/data/hellenistic_author_metadata.json';
-import fallbackMetaData from '../../public/data/1bc-1ad-meta.json'
+import { odonnell_corpus, hellenistic_corpus } from './public/corpora';
+import metaDataArray from './public/data/hellenistic_author_metadata.json';
+import fallbackMetaData from './public/data/1bc-1ad-meta.json'
 
 export const config = {
     api: {
@@ -41,7 +43,7 @@ const fallbackMetaDataDict = fallbackMetaData.reduce((acc, obj) => {
 const odonnell_corpus_pairs = new Set(odonnell_corpus.map(entry => `${entry.authorId}_${entry.workId}`));
 const hellenistic_author_dict = Object.fromEntries(hellenistic_corpus.map(entry => [entry.id, entry]));
 // const odonnell_corpus_dict = Object.fromEntries(odonnell_corpus.map(entry => [`${entry.authorId}_${entry.workId}`, entry]));
-// const dataPath = '../../public/data/json_sentence_pairs';
+// const dataPath = './public/data/json_sentence_pairs';
 
 async function* readFromJsonFiles(searchTerms, useOdonnellCorpusFlag = false) {
     const dataPath = path.join(process.cwd(), 'public/data/json_sentence_pairs');
