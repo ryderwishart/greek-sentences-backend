@@ -1,18 +1,20 @@
-const express = require('express');
-const serverless = require('serverless-http');
-const fs = require('fs').promises;
-const path = require('path');
+import express from 'express';
+import serverless from 'serverless-http';
+import { promises as fs } from 'fs';
+import path from 'path';
+
+// const fsPromises = fs.promises;
 const app = express();
 
 import { odonnell_corpus, hellenistic_corpus } from './public/corpora';
 import metaDataArray from './public/data/hellenistic_author_metadata.json';
 import fallbackMetaData from './public/data/1bc-1ad-meta.json'
 
-export const config = {
-    api: {
-        responseLimit: '8mb',
-    },
-}
+// export const config = {
+//     api: {
+//         responseLimit: '8mb',
+//     },
+// }
 
 console.log('loading api ...');
 const metaDataDict = metaDataArray.reduce((acc, obj) => {
@@ -142,4 +144,4 @@ async function searchAPI(req, res) {
 app.get('/search', searchAPI);
 
 // Export the serverless-http handler
-module.exports.handler = serverless(app);
+export const handler = serverless(app);
