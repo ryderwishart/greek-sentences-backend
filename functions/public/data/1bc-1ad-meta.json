@@ -1,0 +1,7004 @@
+[
+  {
+    "author": "AELIANUS Tact. ",
+    "authorId": "0546",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Tactica",
+    "workId": "0546_001",
+    "wordCount": "9,893"
+  },
+  {
+    "author": "AËTIUS Doxogr. ",
+    "authorId": "0528",
+    "date": "A.D. 1/2",
+    "geo": "A.D. 1/2",
+    "title": "De placitis reliquiae (Stobaei excerpta)",
+    "workId": "0528_001",
+    "wordCount": "11,316"
+  },
+  {
+    "author": "AËTIUS Doxogr. ",
+    "authorId": "0528",
+    "date": "A.D. 1/2",
+    "geo": "A.D. 1/2",
+    "title": "De placitis reliquiae (Theodoreti et Nemesii excerpta)",
+    "workId": "0528_002",
+    "wordCount": "2,569"
+  },
+  {
+    "author": "AGACLYTUS Hist. ",
+    "authorId": "0687",
+    "date": "ante 1 B.C.",
+    "geo": "ante 1 B.C.",
+    "title": "Fragmentum",
+    "workId": "0687_002",
+    "wordCount": "fr. 1; Dup. 0687 001"
+  },
+  {
+    "author": "AGAMESTOR Eleg. ",
+    "authorId": "2605",
+    "date": "ante A.D. 1?",
+    "geo": "ante A.D. 1?",
+    "title": "Fragmentum",
+    "workId": "2605_001",
+    "wordCount": "fr. 14"
+  },
+  {
+    "author": "AGATHEMERUS Geogr. ",
+    "authorId": "0090",
+    "date": "post 1 B.C.",
+    "geo": "post 1 B.C.",
+    "title": "Geographiae informatio",
+    "workId": "0090_001",
+    "wordCount": "1,995"
+  },
+  {
+    "author": "[AGATHODAEMON] Alchem. ",
+    "authorId": "4086",
+    "date": "A.D. 1-2?",
+    "geo": "A.D. 1-2?",
+    "title": "Fragmentum alchemicum (sine titulo) (e cod. Venet. Marc. 299, fol. 95v)",
+    "workId": "4086_001",
+    "wordCount": "16"
+  },
+  {
+    "author": "[AGATHODAEMON] Alchem. ",
+    "authorId": "4086",
+    "date": "A.D. 1-2?",
+    "geo": "A.D. 1-2?",
+    "title": "Ἀγαθοδαίμων εἰς τὸν χρησμόν: Ὀρφέως συναγωγὴ καὶ ὑπόμνημα (e cod. Paris. B.N. gr. 2327, fol. 262r)",
+    "workId": "4086_002",
+    "wordCount": "856"
+  },
+  {
+    "author": "AGATHYLLUS Eleg. ",
+    "authorId": "2606",
+    "date": "ante 1 B.C.?",
+    "geo": "ante 1 B.C.?",
+    "title": "Fragmentum",
+    "workId": "2606_001",
+    "wordCount": "fr. 15; Dup. partim ADDITAMENTA (FGrH) (2433 005) (fr. 2)"
+  },
+  {
+    "author": "AGLAÏS Poet. Med. ",
+    "authorId": "0676",
+    "date": "4 B.C./A.D. 1",
+    "geo": "4 B.C./A.D. 1",
+    "title": "Adversus suffusiones incipientes",
+    "workId": "0676_001",
+    "wordCount": "Dup. 0676 002"
+  },
+  {
+    "author": "AGLAÏS Poet. Med. ",
+    "authorId": "0676",
+    "date": "4 B.C./A.D. 1",
+    "geo": "4 B.C./A.D. 1",
+    "title": "Fragmentum",
+    "workId": "0676_002",
+    "wordCount": "fr. 18; Dup. 0676 001"
+  },
+  {
+    "author": "ALEXANDER Comic. ",
+    "authorId": "0401",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "0401_001",
+    "wordCount": "frr. 1-6, 9 + titulus"
+  },
+  {
+    "author": "ALEXANDER Comic. ",
+    "authorId": "0401",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "0401_002",
+    "wordCount": "44"
+  },
+  {
+    "author": "ALEXANDER Comic. ",
+    "authorId": "0401",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta et tituli",
+    "workId": "0401_003",
+    "wordCount": "Διόνυσος: fr. 1, p. 18; Ἑλένη: fr. 2, p. 19; Πότος: fr. 3, p. 19; Dubia: frr. 4-6, pp. 19-20"
+  },
+  {
+    "author": "Cornelius ALEXANDER Polyhist. ",
+    "authorId": "0697",
+    "date": "2-1 B.C.",
+    "geo": "2-1 B.C.",
+    "title": "Fragmenta",
+    "workId": "0697_003",
+    "wordCount": "frr. 1-152 (frr. 27-30, 140a, 147-149, 151 verba Latina solum)"
+  },
+  {
+    "author": "ALEXANDER Rhet. ",
+    "authorId": "0698",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta et titulus",
+    "workId": "0698_002",
+    "wordCount": "frr. 20-21, 25-34, 36-38"
+  },
+  {
+    "author": "[ALEXARCHUS] Hist. ",
+    "authorId": "2556",
+    "date": "1 B.C.?",
+    "geo": "1 B.C.?",
+    "title": "Fragmenta",
+    "workId": "2556_002",
+    "wordCount": "Frr. 1-2 (fr. 1 dup. 2556 001, fr. 2 verba Latina solum)"
+  },
+  {
+    "author": "AMMONIUS Gramm. ",
+    "authorId": "0708",
+    "date": "fiq Ammonius Hist.",
+    "geo": "fiq Ammonius Hist.",
+    "title": "De adfinium vocabulorum differentia (= Περὶ ὁμοίων καὶ διαφόρων λέξεων) (fort. epitome operis sub auctore Herennio Philone)",
+    "workId": "0708_001",
+    "wordCount": "Dup. partim (H)EREN(N)IUS PHILO Hist. et Gramm. (1416 001, 007); Epitomae 0708 001, 1416 001, 007 videntur e opere Philonis fortasse cum titulo Περὶ διαφόρων σημαινομένων esse"
+  },
+  {
+    "author": "AMMONIUS Gramm. ",
+    "authorId": "0708",
+    "date": "fiq Ammonius Hist.",
+    "geo": "fiq Ammonius Hist.",
+    "title": "De impropriis (= Περὶ ἀκυρολογίας) (quoque sub nominibus Anonymi et Herennii Philonis et Herodiani)",
+    "workId": "0708_002",
+    "wordCount": "1,780"
+  },
+  {
+    "author": "ANACREONTEA Iamb. ",
+    "authorId": "4150",
+    "date": "A.D. 1?/6",
+    "geo": "A.D. 1?/6",
+    "title": "Anacreontea",
+    "workId": "4150_001",
+    "wordCount": "Cross ReferenceCf. et SOPHRONIUS Scr. Eccl. et Hagiogr. {4042.010}"
+  },
+  {
+    "author": "ANAXICRATES Hist. ",
+    "authorId": "2210",
+    "date": "ante 1 B.C.?",
+    "geo": "ante 1 B.C.?",
+    "title": "Fragmenta",
+    "workId": "2210_002",
+    "wordCount": "frr. 1-3; Dup. partim 2210 001"
+  },
+  {
+    "author": "ANDROMACHUS Poet. Med. ",
+    "authorId": "0280",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmentum",
+    "workId": "0280_001",
+    "wordCount": "1,035"
+  },
+  {
+    "author": "ANDRON Hist. ",
+    "authorId": "2172",
+    "date": "2-1 B.C.?",
+    "geo": "2-1 B.C.?",
+    "title": "Fragmentum",
+    "workId": "2172_002",
+    "wordCount": "fr. 1; Dup. 2172 001"
+  },
+  {
+    "author": "ANDRONICUS RHODIUS Phil. ",
+    "authorId": "1124",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "De passionibus (lib. 1) [Sp.]",
+    "workId": "1124_001",
+    "wordCount": "930"
+  },
+  {
+    "author": "ANDRONICUS RHODIUS Phil. ",
+    "authorId": "1124",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "De passionibus (lib. 2) [Sp.]",
+    "workId": "1124_002",
+    "wordCount": "2,205"
+  },
+  {
+    "author": "ANONYMI AULODIA Hexametr., Lyr. ",
+    "authorId": "1836",
+    "date": "ante A.D. 1",
+    "geo": "ante A.D. 1",
+    "title": "Anonymi aulodia (P. Oxy. 15.1795)",
+    "workId": "1836_001",
+    "wordCount": "Dup. partim LYRICA ADESPOTA (CA) (0230 001) (CA, pp. 199-200); Dup. SCOLIA ALPHABETICA (0273 001) (GDRK, pp. 38-40)"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Supplementa artis Dionysianae vetusta",
+    "workId": "0072_001",
+    "wordCount": "Cross ReferenceCf. et DIONYSIUS THRAX Gramm. {0063.001}"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (P. Yale 1.25 [inv. 446]) (fort. epitome operis Comani)",
+    "workId": "0072_003",
+    "wordCount": "313"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (P. Lit. Lond. 182 = P. Lond. 126) (fort. auctore Tryphone Alexandrino)",
+    "workId": "0072_004",
+    "wordCount": "945"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (P. Heid. Siegmann 197 [inv. 1893])",
+    "workId": "0072_005",
+    "wordCount": "259"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (PSI sine numero [inv. 505])",
+    "workId": "0072_006",
+    "wordCount": "181"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (P. Brooklyn inv. 47.218.36)",
+    "workId": "0072_007",
+    "wordCount": "73"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (P. Oslo 2.13)",
+    "workId": "0072_008",
+    "wordCount": "380"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (P. Iand. 83a [inv. 664])",
+    "workId": "0072_009",
+    "wordCount": "120"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (P. Harr. 59 [inv. 172b + 182h])",
+    "workId": "0072_010",
+    "wordCount": "149"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (P. Heid. Siegmann 198 [inv. 201a])",
+    "workId": "0072_011",
+    "wordCount": "82"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (P. Iand. 5.83 [inv. 555])",
+    "workId": "0072_012",
+    "wordCount": "71"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (P. Amh. 2.21)",
+    "workId": "0072_013",
+    "wordCount": "300"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (P. Ant. 2.68)",
+    "workId": "0072_014",
+    "wordCount": "132"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (PSI 7.761)",
+    "workId": "0072_015",
+    "wordCount": "134"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Compendium catholicae Herodiani (P. Ant. 2.67)",
+    "workId": "0072_016",
+    "wordCount": "160"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Commentarium in anonymi opus περὶ κλίσεως ὀνομάτων (P. Oxy. 15.1801v)",
+    "workId": "0072_017",
+    "wordCount": "93"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Compendium Herodiani operis περὶ κλίσεως ὀνομάτων (P. Flor. inv. 3005)",
+    "workId": "0072_018",
+    "wordCount": "92"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "De participiis (P. Rain. 1.19 [inv. 29772])",
+    "workId": "0072_019",
+    "wordCount": "62"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (PSI 7.849)",
+    "workId": "0072_020",
+    "wordCount": "244"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (P. Oxy. 3.469)",
+    "workId": "0072_021",
+    "wordCount": "79"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum grammaticum (P. Iand. 1.5 [inv. 2])",
+    "workId": "0072_022",
+    "wordCount": "128"
+  },
+  {
+    "author": "ANONYMI GRAMMATICI Gramm. ",
+    "authorId": "0072",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Περὶ Αἰολίδος (?) (fragmentum) (P. Bouriant 8 [P. Sorbonne inv. 833])",
+    "workId": "0072_023",
+    "wordCount": "380"
+  },
+  {
+    "author": "ANONYMUS LONDINENSIS Med. ",
+    "authorId": "0643",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Iatrica (fort. auctore Menone) (Brit. Mus. inv. 137)",
+    "workId": "0643_001",
+    "wordCount": "11,745"
+  },
+  {
+    "author": "ANONYMUS LONDINENSIS Med. ",
+    "authorId": "0643",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta",
+    "workId": "0643_002",
+    "wordCount": "155"
+  },
+  {
+    "author": "ANTILEON Hist. ",
+    "authorId": "2173",
+    "date": "2-1 B.C.?",
+    "geo": "2-1 B.C.?",
+    "title": "Fragmenta",
+    "workId": "2173_002",
+    "wordCount": "frr. 1-2; Dup. 2173 001"
+  },
+  {
+    "author": "ANTIOCHUS Phil. ",
+    "authorId": "1143",
+    "date": "2-1 B.C.",
+    "geo": "2-1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1143_001",
+    "wordCount": "frr. 1, 2, 7, 12, 13, 15, 18, 23, 31-33, 35-38, 54-55, 58, 65-66, 86"
+  },
+  {
+    "author": "ANTIOCHUS Astrol. ",
+    "authorId": "1144",
+    "date": "1 B.C./A.D. 1",
+    "geo": "1 B.C./A.D. 1",
+    "title": "Fragmenta (e cod. Florentino 11)",
+    "workId": "1144_001",
+    "wordCount": "882"
+  },
+  {
+    "author": "ANTIOCHUS Astrol. ",
+    "authorId": "1144",
+    "date": "1 B.C./A.D. 1",
+    "geo": "1 B.C./A.D. 1",
+    "title": "Fragmenta (e cod. Neapolitano 19)",
+    "workId": "1144_002",
+    "wordCount": "244"
+  },
+  {
+    "author": "ANTIOCHUS Astrol. ",
+    "authorId": "1144",
+    "date": "1 B.C./A.D. 1",
+    "geo": "1 B.C./A.D. 1",
+    "title": "Fragmenta (e cod. Monac. 7)",
+    "workId": "1144_003",
+    "wordCount": "2,873"
+  },
+  {
+    "author": "ANTIOCHUS Astrol. ",
+    "authorId": "1144",
+    "date": "1 B.C./A.D. 1",
+    "geo": "1 B.C./A.D. 1",
+    "title": "Fragmenta (e cod. Paris.)",
+    "workId": "1144_004",
+    "wordCount": "4,632"
+  },
+  {
+    "author": "ANTIOCHUS Astrol. ",
+    "authorId": "1144",
+    "date": "1 B.C./A.D. 1",
+    "geo": "1 B.C./A.D. 1",
+    "title": "Fragmentum apotelesmaticum (e cod. Scorial. Ψ 17, fol. 38v)",
+    "workId": "1144_005",
+    "wordCount": "463"
+  },
+  {
+    "author": "ANTONIUS DIOGENES Scr. Erot. ",
+    "authorId": "1148",
+    "date": "A.D. 1/2",
+    "geo": "A.D. 1/2",
+    "title": "De incredibilibus (fragmentum) (PSI 10.1177)",
+    "workId": "1148_004",
+    "wordCount": "167"
+  },
+  {
+    "author": "ANTONIUS DIOGENES Scr. Erot. ",
+    "authorId": "1148",
+    "date": "A.D. 1/2",
+    "geo": "A.D. 1/2",
+    "title": "De incredibilibus (fragmentum) (P. Oxy. 42.3012)",
+    "workId": "1148_005",
+    "wordCount": "37"
+  },
+  {
+    "author": "ANTONIUS DIOGENES Scr. Erot. ",
+    "authorId": "1148",
+    "date": "A.D. 1/2",
+    "geo": "A.D. 1/2",
+    "title": "De incredibilibus vel Herpyllis (?) (fragmentum) (P. Dubl. C3)",
+    "workId": "1148_006",
+    "wordCount": "419"
+  },
+  {
+    "author": "ANUBION Poet. Astrol. ",
+    "authorId": "1126",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta (e cod. Veneto 7)",
+    "workId": "1126_002",
+    "wordCount": "3,139"
+  },
+  {
+    "author": "ANUBION Poet. Astrol. ",
+    "authorId": "1126",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta (e cod. Paris. 2417)",
+    "workId": "1126_003",
+    "wordCount": "85"
+  },
+  {
+    "author": "ANUBION Poet. Astrol. ",
+    "authorId": "1126",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Anubionis carminis astrologici  fragmenta",
+    "workId": "1126_004",
+    "wordCount": "Section 1: Liber III (frr. 1-5) pp. 23-33; Section 2: Liber IV (fr. 6) pp. 35-39; Section 3: Fragmenta loci incerti (frr. 7-14) pp. 40-42; Section 4: Fragmenta incerta (frr. 15-22) pp. 45-65"
+  },
+  {
+    "author": "APION Gramm. ",
+    "authorId": "1152",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta de glossis Homericis",
+    "workId": "1152_003",
+    "wordCount": "5,267"
+  },
+  {
+    "author": "APION Gramm. ",
+    "authorId": "1152",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta de glossis Homericis",
+    "workId": "1152_004",
+    "wordCount": "frr. 1-158"
+  },
+  {
+    "author": "APION Gramm. ",
+    "authorId": "1152",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta",
+    "workId": "1152_005",
+    "wordCount": "frr. 1-32; Dup. partim 1152 001, 002"
+  },
+  {
+    "author": "APOCALYPSIS ADAM Apocryph. ",
+    "authorId": "1153",
+    "date": "vel Testamentum Adam",
+    "geo": "vel Testamentum Adam",
+    "title": "Νυχθήμερον (fort. auctore Apollonio Tyanensi)",
+    "workId": "1153_001",
+    "wordCount": "451"
+  },
+  {
+    "author": "APOCALYPSIS ELIAE Hagiogr., Pseudepigr. ",
+    "authorId": "1156",
+    "date": "ante A.D. 1",
+    "geo": "ante A.D. 1",
+    "title": "Fragmenta",
+    "workId": "1156_001",
+    "wordCount": "215"
+  },
+  {
+    "author": "APOCALYPSIS ESDRAE Hagiogr., Pseudepigr. ",
+    "authorId": "1157",
+    "date": "A.D. 1/2",
+    "geo": "A.D. 1/2",
+    "title": "Apocalypsis Esdrae",
+    "workId": "1157_001",
+    "wordCount": "2,582"
+  },
+  {
+    "author": "APOCALYPSIS ESDRAE Hagiogr., Pseudepigr. ",
+    "authorId": "1157",
+    "date": "A.D. 1/2",
+    "geo": "A.D. 1/2",
+    "title": "Apocalypsis Esdrae quarta",
+    "workId": "1157_002",
+    "wordCount": "137"
+  },
+  {
+    "author": "APOCALYPSIS SYRIACA BARUCHI Hagiogr., Pseudepigr. ",
+    "authorId": "1155",
+    "date": "vel II Baruch",
+    "geo": "vel II Baruch",
+    "title": "Fragmentum",
+    "workId": "1155_001",
+    "wordCount": "172"
+  },
+  {
+    "author": "APOCRYPHON EZECHIEL Hagiogr., Pseudepigr. ",
+    "authorId": "1161",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fragmenta",
+    "workId": "1161_001",
+    "wordCount": "963"
+  },
+  {
+    "author": "Pseudo-APOLLODORUS Myth. ",
+    "authorId": "0548",
+    "date": "A.D. 1/2",
+    "geo": "A.D. 1/2",
+    "title": "Bibliotheca (sub nomine Apollodori)",
+    "workId": "0548_001",
+    "wordCount": "27,238"
+  },
+  {
+    "author": "Pseudo-APOLLODORUS Myth. ",
+    "authorId": "0548",
+    "date": "A.D. 1/2",
+    "geo": "A.D. 1/2",
+    "title": "Bibliotheca (epitomae e codd. Vat. 950 + Sabbaitico 366)",
+    "workId": "0548_002",
+    "wordCount": "Cross ReferenceCf. et Joannes TZETZES Gramm. et Poeta {9022}"
+  },
+  {
+    "author": "APOLLODORUS Hist. ",
+    "authorId": "1164",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1164_002",
+    "wordCount": "frr. 1-7; Dup. 1164 001"
+  },
+  {
+    "author": "APOLLODORUS Mech. ",
+    "authorId": "1165",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Poliorcetica",
+    "workId": "1165_001",
+    "wordCount": "5,764"
+  },
+  {
+    "author": "APOLLONIUS Phil. ",
+    "authorId": "0619",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Apotelesmata [Sp.]",
+    "workId": "0619_001",
+    "wordCount": "Praefatio: pp. 1372-1374; De nominibus temporum anni: pp. 1375-1376; De nominibus horarum diei: pp. 1376-1378; De nominibus horarum noctis: pp. 1378-1381; De horis atque diebus benedictis: pp. 1381-1384; Oratio et invocatio ante incantationem: p. 1384; Nomina angelorum, solis, lunae, caeli, terrae: pp. 1385-1386; Nomina ventorum, angelorum, dierum: pp. 1387-1388; Varia apotelesmata: pp. 1388-1391"
+  },
+  {
+    "author": "APOLLONIUS Phil. ",
+    "authorId": "0619",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "De horis diei et noctis (fragmenta e cod. Berol. 26) [Sp.]",
+    "workId": "0619_002",
+    "wordCount": "Dup. partim 0619 001"
+  },
+  {
+    "author": "APOLLONIUS Phil. ",
+    "authorId": "0619",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Apollonii epistulae [Dub.]",
+    "workId": "0619_003",
+    "wordCount": "5,317"
+  },
+  {
+    "author": "APOLLONIUS Med. ",
+    "authorId": "0660",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "In Hippocratis de articulis commentarius",
+    "workId": "0660_001",
+    "wordCount": "12,154"
+  },
+  {
+    "author": "APOLLONIUS Soph. ",
+    "authorId": "1168",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Lexicon Homericum",
+    "workId": "1168_001",
+    "wordCount": "40,304"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Prooemium",
+    "workId": "0551_001",
+    "wordCount": "2,357"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Basilica (fragmenta)",
+    "workId": "0551_002",
+    "wordCount": "1,360"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Italica (fragmenta)",
+    "workId": "0551_003",
+    "wordCount": "1,186"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Samnitica (fragmenta)",
+    "workId": "0551_004",
+    "wordCount": "3,478"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Celtica (fragmenta)",
+    "workId": "0551_005",
+    "wordCount": "2,257"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Sicelica (fragmenta)",
+    "workId": "0551_006",
+    "wordCount": "976"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Iberica",
+    "workId": "0551_007",
+    "wordCount": "16,005"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Annibaica",
+    "workId": "0551_008",
+    "wordCount": "9,666"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Libyca",
+    "workId": "0551_009",
+    "wordCount": "25,094"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Numidica (fragmenta)",
+    "workId": "0551_010",
+    "wordCount": "384"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Macedonica (fragmenta)",
+    "workId": "0551_011",
+    "wordCount": "3,712"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Illyrica",
+    "workId": "0551_012",
+    "wordCount": "4,848"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Syriaca",
+    "workId": "0551_013",
+    "wordCount": "13,699"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Mithridatica",
+    "workId": "0551_014",
+    "wordCount": "24,028"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fragmenta historiae Romanae",
+    "workId": "0551_015",
+    "wordCount": "frr. 2-24"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Appiani ad Frontonem epistula",
+    "workId": "0551_016",
+    "wordCount": "315"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Bellum civile",
+    "workId": "0551_017",
+    "wordCount": "*Lib. 1: vol. 3, pp. 2-226; *Lib. 2: vol. 3, pp. 230-514; *Lib. 3: vol. 3, pp. 518-566; vol. 4, pp. 2-136; *Lib. 4: vol. 4, pp. 140-372; *Lib. 5: vol. 4, pp. 376-616"
+  },
+  {
+    "author": "APPIANUS Hist. ",
+    "authorId": "0551",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Testimonium",
+    "workId": "0551_018",
+    "wordCount": "54"
+  },
+  {
+    "author": "ARCHIGENES Med. ",
+    "authorId": "0661",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fragmenta",
+    "workId": "0661_001",
+    "wordCount": "Περὶ φλεγμονῆς σπληνός: pp. 9-12; Θεραπεία: pp. 12-14; Περὶ τῶν ἑλμίνθων γενῶν καὶ πόσαι διαφοραί: pp. 14-20; Περὶ λειεντερίας: pp. 20-24"
+  },
+  {
+    "author": "ARCHIGENES Med. ",
+    "authorId": "0661",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fragmenta inedita",
+    "workId": "0661_002",
+    "wordCount": "Περὶ ἀποστήματος ἐν ἥπατι: pp. 68-69; Θεραπεία ἡλκωμένου ἥπατος: pp. 69-70; Περὶ καχεξίας: p. 71; Κοινὴ δίαιτα πάντων τῶν ὑδρωπικῶν: p. 72"
+  },
+  {
+    "author": "Pseudo-ARCHYTAS Phil. ",
+    "authorId": "1177",
+    "date": "1 B.C.-A.D. 3",
+    "geo": "1 B.C.-A.D. 3",
+    "title": "Fragmenta",
+    "workId": "1177_001",
+    "wordCount": "Catholica: pp. 3-8; De viro bono: pp. 8-15; De oppositionibus: pp. 15-19; De principiis: pp. 19-20; De categoriis: pp. 21-32; De lege: pp. 33-36; De intellectu: pp. 36-40; De natura: p. 40; De educatione: pp. 40-43; De sapientia: pp. 43-45; Epistulae: pp. 45-47; Fragmenta incertae sedis: pp. 47-48"
+  },
+  {
+    "author": "ARISTEAE EPISTULA Epist. ",
+    "authorId": "1183",
+    "date": "3 B.C./A.D. 1",
+    "geo": "3 B.C./A.D. 1",
+    "title": "Aristeae epistula ad Philocratem",
+    "workId": "1183_001",
+    "wordCount": "12,964"
+  },
+  {
+    "author": "ARISTOCLES Paradox. ",
+    "authorId": "0571",
+    "date": "fiq Aristocles Hist. vel Aristocles Myth.",
+    "geo": "fiq Aristocles Hist. vel Aristocles Myth.",
+    "title": "Fragmentum",
+    "workId": "0571_004",
+    "wordCount": "fr. 206; Dup. partim 0571 002; Dup. partim ARISTOCLES Hist. (2302 001)"
+  },
+  {
+    "author": "ARISTOCLES Paradox. ",
+    "authorId": "0571",
+    "date": "fiq Aristocles Hist. vel Aristocles Myth.",
+    "geo": "fiq Aristocles Hist. vel Aristocles Myth.",
+    "title": "Fragmenta",
+    "workId": "0571_005",
+    "wordCount": "732"
+  },
+  {
+    "author": "ARISTOCRATES Hist. ",
+    "authorId": "1189",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Fragmenta",
+    "workId": "1189_003",
+    "wordCount": "frr. 1-7; Dup. 1189 002"
+  },
+  {
+    "author": "ARISTODEMUS Hist., Myth. ",
+    "authorId": "1875",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1875_002",
+    "wordCount": "frr. 1-14 (fr. 14 verba Latina solum); Dup. partim 1875 001"
+  },
+  {
+    "author": "ARISTODEMUS Hist. ",
+    "authorId": "2148",
+    "date": "4 B.C./A.D. 2",
+    "geo": "4 B.C./A.D. 2",
+    "title": "Fragmenta",
+    "workId": "2148_001",
+    "wordCount": "fr. 1: Cod. Paris. suppl. gr. 607"
+  },
+  {
+    "author": "ARISTODEMUS Hist. ",
+    "authorId": "2148",
+    "date": "4 B.C./A.D. 2",
+    "geo": "4 B.C./A.D. 2",
+    "title": "Fragmentum (P. Oxy. 27.2469)",
+    "workId": "2148_002",
+    "wordCount": "fr. 1b"
+  },
+  {
+    "author": "ARISTON Phil. ",
+    "authorId": "2447",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "2447_002",
+    "wordCount": "301"
+  },
+  {
+    "author": "ARISTON Phil. ",
+    "authorId": "2447",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Testimonia",
+    "workId": "2447_003",
+    "wordCount": "Dup. partim 2447 001"
+  },
+  {
+    "author": "ARISTONICUS Gramm. ",
+    "authorId": "1194",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De signis Odysseae",
+    "workId": "1194_001",
+    "wordCount": "31,189"
+  },
+  {
+    "author": "ARISTONICUS Gramm. ",
+    "authorId": "1194",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De signis Iliadis",
+    "workId": "1194_002",
+    "wordCount": "85,639"
+  },
+  {
+    "author": "ARISTONICUS Gramm. ",
+    "authorId": "1194",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Testimonia",
+    "workId": "1194_003",
+    "wordCount": "126"
+  },
+  {
+    "author": "ARISTONICUS Gramm. ",
+    "authorId": "1194",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Fragmentum",
+    "workId": "1194_004",
+    "wordCount": "96"
+  },
+  {
+    "author": "ARIUS DIDYMUS Doxogr. ",
+    "authorId": "0529",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Physica (fragmenta)",
+    "workId": "0529_001",
+    "wordCount": "frr. 1-40"
+  },
+  {
+    "author": "ARIUS DIDYMUS Doxogr. ",
+    "authorId": "0529",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Liber de philosophorum sectis (epitome ap. Stobaeum)",
+    "workId": "0529_002",
+    "wordCount": "20,565"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Alexandri anabasis",
+    "workId": "0074_001",
+    "wordCount": "78,566"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Historia Indica",
+    "workId": "0074_002",
+    "wordCount": "13,942"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Cynegeticus",
+    "workId": "0074_003",
+    "wordCount": "6,041"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Periplus ponti Euxini",
+    "workId": "0074_004",
+    "wordCount": "4,340"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Tactica",
+    "workId": "0074_005",
+    "wordCount": "9,102"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Acies contra Alanos",
+    "workId": "0074_006",
+    "wordCount": "1,278"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fragmenta de rebus physicis",
+    "workId": "0074_007",
+    "wordCount": "1,707"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Epistula ad Lucium Gellium",
+    "workId": "0074_008",
+    "wordCount": "199"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Bithynicorum fragmenta",
+    "workId": "0074_009",
+    "wordCount": "4,215"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Parthicorum fragmenta",
+    "workId": "0074_010",
+    "wordCount": "Cross ReferenceCf. et Flavius ARRIANUS Hist. et Phil. {0074.015}"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Historia successorum Alexandri (fragmenta ap. Photium, Bibl. cod. 92)",
+    "workId": "0074_011",
+    "wordCount": "Cross ReferenceCf. et Flavius ARRIANUS Hist. et Phil. {0074.016}"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fragmentum ex historia Alanica (?)",
+    "workId": "0074_012",
+    "wordCount": "76"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fragmenta incerta (utrum e Parthicis an ex historia successorum Alexandri desumpta sint)",
+    "workId": "0074_013",
+    "wordCount": "544"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fragmentum (PSI 12.1284)",
+    "workId": "0074_014",
+    "wordCount": "143"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Parthicorum fragmenta (ap. Joannem Lydum et Syncellum)",
+    "workId": "0074_015",
+    "wordCount": "Cross ReferenceCf. et Flavius ARRIANUS Hist. et Phil. {0074.010}"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Historia successorum Alexandri (fragmenta ap. Photium, Bibl. cod. 82)",
+    "workId": "0074_016",
+    "wordCount": "Cross ReferenceCf. et Flavius ARRIANUS Hist. et Phil. {0074.011}"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Testimonia",
+    "workId": "0074_017",
+    "wordCount": "718"
+  },
+  {
+    "author": "Flavius ARRIANUS Hist., Phil. ",
+    "authorId": "0074",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fragmenta",
+    "workId": "0074_018",
+    "wordCount": "12,645"
+  },
+  {
+    "author": "ARTEMON Gramm. ",
+    "authorId": "1197",
+    "date": "fiq Artemon Pergamenus Hist.",
+    "geo": "fiq Artemon Pergamenus Hist.",
+    "title": "Fragmenta",
+    "workId": "1197_001",
+    "wordCount": "frr. 9-14"
+  },
+  {
+    "author": "ASCLEPIADES Gramm., Hist. ",
+    "authorId": "1199",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1199_003",
+    "wordCount": "frr. 1-6"
+  },
+  {
+    "author": "ASCLEPIADES Gramm., Hist. ",
+    "authorId": "2423",
+    "date": "1 B.C.-A.D. 1?",
+    "geo": "1 B.C.-A.D. 1?",
+    "title": "Fragmentum",
+    "workId": "2423_002",
+    "wordCount": "fr. 1 dup. 2423 001"
+  },
+  {
+    "author": "ASCLEPIODOTUS Tact. ",
+    "authorId": "0556",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Tactica",
+    "workId": "0556_001",
+    "wordCount": "6,652"
+  },
+  {
+    "author": "ASSUMPTIO MOSIS Hagiogr., Pseudepigr. ",
+    "authorId": "1201",
+    "date": "vel Testamentum Mosis",
+    "geo": "vel Testamentum Mosis",
+    "title": "Fragmenta",
+    "workId": "1201_001",
+    "wordCount": "404"
+  },
+  {
+    "author": "ATHENAEUS Mech. ",
+    "authorId": "1204",
+    "date": "1 B.C.?",
+    "geo": "1 B.C.?",
+    "title": "De machinis",
+    "workId": "1204_001",
+    "wordCount": "3,536"
+  },
+  {
+    "author": "ATHENODORUS Phil. ",
+    "authorId": "1206",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1206_003",
+    "wordCount": "frr. 1-5; Dup. 1206 002"
+  },
+  {
+    "author": "BALBILLUS Astrol. ",
+    "authorId": "1215",
+    "date": "vel Barbillus",
+    "geo": "vel Barbillus",
+    "title": "Fragmenta",
+    "workId": "1215_001",
+    "wordCount": "340"
+  },
+  {
+    "author": "BARNABAE EPISTULA Epist. ",
+    "authorId": "1216",
+    "date": "A.D. 1/2",
+    "geo": "A.D. 1/2",
+    "title": "Barnabae epistula",
+    "workId": "1216_001",
+    "wordCount": "6,712"
+  },
+  {
+    "author": "BATRACHOMYOMACHIA Parod. ",
+    "authorId": "1220",
+    "date": "2/1 B.C.",
+    "geo": "2/1 B.C.",
+    "title": "Batrachomyomachia",
+    "workId": "1220_001",
+    "wordCount": "Cross ReferenceCf. et SCHOLIA IN BATRACHOMYOMACHIA {5007}"
+  },
+  {
+    "author": "BATRACHOMYOMACHIA Parod. ",
+    "authorId": "1220",
+    "date": "2/1 B.C.",
+    "geo": "2/1 B.C.",
+    "title": "Batrachomyomachia (prosodia Byzantina)",
+    "workId": "1220_002",
+    "wordCount": "Cross ReferenceCf. et SCHOLIA IN BATRACHOMYOMACHIA {5007}"
+  },
+  {
+    "author": "BATRACHOMYOMACHIA Parod. ",
+    "authorId": "1220",
+    "date": "2/1 B.C.",
+    "geo": "2/1 B.C.",
+    "title": "Paraphrases in  Batrachomyomachia",
+    "workId": "1220_003",
+    "wordCount": "Cross ReferencesCf. et SCHOLIA IN BATRACHOMYOMACHIA {5007}Cf. et SCHOLIA IN BATRACHOMYOMACHIA {5007.001}"
+  },
+  {
+    "author": "BLAESUS Comic. ",
+    "authorId": "1227",
+    "date": "2/1 B.C.?",
+    "geo": "2/1 B.C.?",
+    "title": "Fragmentum",
+    "workId": "1227_001",
+    "wordCount": "fr. 2 + tituli"
+  },
+  {
+    "author": "BLAESUS Comic. ",
+    "authorId": "1227",
+    "date": "2/1 B.C.?",
+    "geo": "2/1 B.C.?",
+    "title": "Fragmenta",
+    "workId": "1227_002",
+    "wordCount": "Μεσοτρίβας: fr. 1, p. 273; Σατοῦρνος: fr. 2, p. 274; Incertarum fabularum (?) fragmenta: frr. 3-5, p. 274"
+  },
+  {
+    "author": "BOETHUS Epigr. ",
+    "authorId": "0146",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Epigramma",
+    "workId": "0146_001",
+    "wordCount": "40"
+  },
+  {
+    "author": "BOETHUS Epigr. ",
+    "authorId": "0146",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Titulus",
+    "workId": "0146_002",
+    "wordCount": "fr. 232"
+  },
+  {
+    "author": "BOETHUS Phil. ",
+    "authorId": "2397",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "2397_001",
+    "wordCount": "684"
+  },
+  {
+    "author": "BRUTI EPISTULAE Epist. ",
+    "authorId": "1803",
+    "date": "post 1 B.C.",
+    "geo": "post 1 B.C.",
+    "title": "Epistulae",
+    "workId": "1803_001",
+    "wordCount": "Cross ReferenceCf. et MITHRIDATIS EPISTULA {0039}"
+  },
+  {
+    "author": "BUTAS Eleg. ",
+    "authorId": "2611",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmentum",
+    "workId": "2611_001",
+    "wordCount": "fr. 234"
+  },
+  {
+    "author": "Domitius CALLISTRATUS Hist. ",
+    "authorId": "1239",
+    "date": "1 B.C.?",
+    "geo": "1 B.C.?",
+    "title": "Fragmenta",
+    "workId": "1239_002",
+    "wordCount": "frr. 1-11"
+  },
+  {
+    "author": "CARMINA DELPHIS INVENTA Lyr. ",
+    "authorId": "0362",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Carmina Delphis inventa",
+    "workId": "0362_001",
+    "wordCount": "302"
+  },
+  {
+    "author": "CASTOR Rhet. ",
+    "authorId": "1246",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Testimonia",
+    "workId": "1246_001",
+    "wordCount": "102"
+  },
+  {
+    "author": "CASTOR Rhet. ",
+    "authorId": "1246",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1246_002",
+    "wordCount": "1,189"
+  },
+  {
+    "author": "CEBES Phil. ",
+    "authorId": "1247",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Cebetis tabula",
+    "workId": "1247_001",
+    "wordCount": "4,722"
+  },
+  {
+    "author": "CERTAMEN HOMERI ET HESIODI Narr. Fict. ",
+    "authorId": "1252",
+    "date": "3 B.C./A.D. 2",
+    "geo": "3 B.C./A.D. 2",
+    "title": "Certamen Homeri et Hesiodi (P. Petrie 25)",
+    "workId": "1252_001",
+    "wordCount": "Cross ReferenceCf. et VITAE HOMERI {1805}"
+  },
+  {
+    "author": "CERTAMEN HOMERI ET HESIODI Narr. Fict. ",
+    "authorId": "1252",
+    "date": "3 B.C./A.D. 2",
+    "geo": "3 B.C./A.D. 2",
+    "title": "Certamen Homeri et Hesiodi",
+    "workId": "1252_002",
+    "wordCount": "Cross ReferenceCf. et VITAE HOMERI {1805}"
+  },
+  {
+    "author": "CHAEREMON Hist., Phil. ",
+    "authorId": "2424",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta",
+    "workId": "2424_003",
+    "wordCount": "frr. 1-7 (fr. 6b verba Latina solum); Dup. partim 2424 002"
+  },
+  {
+    "author": "CHARINUS Choliamb. ",
+    "authorId": "1257",
+    "date": "1 B.C.?",
+    "geo": "1 B.C.?",
+    "title": "Fragmentum",
+    "workId": "1257_002",
+    "wordCount": "fr. 313"
+  },
+  {
+    "author": "CHIONIS EPISTULAE Epist., Narr. Fict. ",
+    "authorId": "0041",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistulae",
+    "workId": "0041_001",
+    "wordCount": "4,782"
+  },
+  {
+    "author": "CLAUDIUS IOLAUS Hist. ",
+    "authorId": "1268",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Fragmenta",
+    "workId": "1268_002",
+    "wordCount": "frr. 1-4"
+  },
+  {
+    "author": "CLEMENS ROMANUS et CLEMENTINA Theol. ",
+    "authorId": "1271",
+    "date": "vel Pseudo-Clemens",
+    "geo": "vel Pseudo-Clemens",
+    "title": "Epistula i ad Corinthios",
+    "workId": "1271_001",
+    "wordCount": "9,830"
+  },
+  {
+    "author": "CLEMENS ROMANUS et CLEMENTINA Theol. ",
+    "authorId": "1271",
+    "date": "vel Pseudo-Clemens",
+    "geo": "vel Pseudo-Clemens",
+    "title": "Epistula ii ad Corinthios [Sp.]",
+    "workId": "1271_002",
+    "wordCount": "3,012"
+  },
+  {
+    "author": "CLEMENS ROMANUS et CLEMENTINA Theol. ",
+    "authorId": "1271",
+    "date": "vel Pseudo-Clemens",
+    "geo": "vel Pseudo-Clemens",
+    "title": "Epistula Petri ad Jacobum [Sp.]",
+    "workId": "1271_003",
+    "wordCount": "496"
+  },
+  {
+    "author": "CLEMENS ROMANUS et CLEMENTINA Theol. ",
+    "authorId": "1271",
+    "date": "vel Pseudo-Clemens",
+    "geo": "vel Pseudo-Clemens",
+    "title": "Contestatio [Sp.]",
+    "workId": "1271_004",
+    "wordCount": "665"
+  },
+  {
+    "author": "CLEMENS ROMANUS et CLEMENTINA Theol. ",
+    "authorId": "1271",
+    "date": "vel Pseudo-Clemens",
+    "geo": "vel Pseudo-Clemens",
+    "title": "Epistula Clementis ad Jacobum [Sp.]",
+    "workId": "1271_005",
+    "wordCount": "2,507"
+  },
+  {
+    "author": "CLEMENS ROMANUS et CLEMENTINA Theol. ",
+    "authorId": "1271",
+    "date": "vel Pseudo-Clemens",
+    "geo": "vel Pseudo-Clemens",
+    "title": "Homiliae [Sp.]",
+    "workId": "1271_006",
+    "wordCount": "70,990"
+  },
+  {
+    "author": "CLEMENS ROMANUS et CLEMENTINA Theol. ",
+    "authorId": "1271",
+    "date": "vel Pseudo-Clemens",
+    "geo": "vel Pseudo-Clemens",
+    "title": "Recognitiones [Sp.]",
+    "workId": "1271_007",
+    "wordCount": "1,573"
+  },
+  {
+    "author": "CLEMENS ROMANUS et CLEMENTINA Theol. ",
+    "authorId": "1271",
+    "date": "vel Pseudo-Clemens",
+    "geo": "vel Pseudo-Clemens",
+    "title": "Recognitiones (ex Eusebio) [Sp.]",
+    "workId": "1271_008",
+    "wordCount": "1,753"
+  },
+  {
+    "author": "CLEMENS ROMANUS et CLEMENTINA Theol. ",
+    "authorId": "1271",
+    "date": "vel Pseudo-Clemens",
+    "geo": "vel Pseudo-Clemens",
+    "title": "Recognitiones (e Pseudo-Caesario) [Sp.]",
+    "workId": "1271_009",
+    "wordCount": "1,204"
+  },
+  {
+    "author": "CLEMENS ROMANUS et CLEMENTINA Theol. ",
+    "authorId": "1271",
+    "date": "vel Pseudo-Clemens",
+    "geo": "vel Pseudo-Clemens",
+    "title": "Epistulae de virginitate [Sp.]",
+    "workId": "1271_010",
+    "wordCount": "2,037"
+  },
+  {
+    "author": "CLEMENS ROMANUS et CLEMENTINA Theol. ",
+    "authorId": "1271",
+    "date": "vel Pseudo-Clemens",
+    "geo": "vel Pseudo-Clemens",
+    "title": "Pseudo-Clementina (epitome altera auctore Symeone Metaphrasta) [Sp.]",
+    "workId": "1271_011",
+    "wordCount": "25,310"
+  },
+  {
+    "author": "CLEMENS ROMANUS et CLEMENTINA Theol. ",
+    "authorId": "1271",
+    "date": "vel Pseudo-Clemens",
+    "geo": "vel Pseudo-Clemens",
+    "title": "Pseudo-Clementina (epitome de gestis Petri praemetaphrastica) [Sp.]",
+    "workId": "1271_012",
+    "wordCount": "26,040"
+  },
+  {
+    "author": "CLEOPATRA Alchem. ",
+    "authorId": "4335",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "De ponderibus et mensuris",
+    "workId": "4335_001",
+    "wordCount": "618"
+  },
+  {
+    "author": "COCONDRIUS Rhet. ",
+    "authorId": "4244",
+    "date": "post 1 B.C.",
+    "geo": "post 1 B.C.",
+    "title": "Περὶ τρόπων",
+    "workId": "4244_001",
+    "wordCount": "2,474"
+  },
+  {
+    "author": "COMARIUS Alchem. ",
+    "authorId": "2632",
+    "date": "vel Comerius",
+    "geo": "vel Comerius",
+    "title": "De lapide philosophorum",
+    "workId": "2632_002",
+    "wordCount": "Other EditionDe lapide philosophorum {2632.001}M. Berthelot and C.É. Ruelle, \"Collection des anciens alchimistes grecs, vol. 2,\" , vol. 2 (1888): 289-299."
+  },
+  {
+    "author": "CONON Hist. ",
+    "authorId": "1285",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Fragmenta",
+    "workId": "1285_003",
+    "wordCount": "frr. 1-3 (frr. 1-2 verba Latina solum)"
+  },
+  {
+    "author": "Lucius Annaeus CORNUTUS Phil. ",
+    "authorId": "0654",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Theologiae Graecae compendium",
+    "workId": "0654_004",
+    "wordCount": "Cross ReferenceCf. et ANONYMUS SEGUERIANUS Rhet. {2002.001}"
+  },
+  {
+    "author": "CRATES Hist. ",
+    "authorId": "1289",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1289_002",
+    "wordCount": "frr. 1-7; Dup. partim 1289 001"
+  },
+  {
+    "author": "CRATEUAS Med. ",
+    "authorId": "0657",
+    "date": "2-1 B.C.",
+    "geo": "2-1 B.C.",
+    "title": "Fragmenta",
+    "workId": "0657_001",
+    "wordCount": "486"
+  },
+  {
+    "author": "CRATIPPUS Hist. ",
+    "authorId": "1907",
+    "date": "1 B.C.?",
+    "geo": "1 B.C.?",
+    "title": "Fragmenta",
+    "workId": "1907_003",
+    "wordCount": "Cross ReferenceCf. et HELLENICA {0558}"
+  },
+  {
+    "author": "CRITO Hist. ",
+    "authorId": "1867",
+    "date": "fiq Titus Statilius Crito Med.",
+    "geo": "fiq Titus Statilius Crito Med.",
+    "title": "Fragmenta",
+    "workId": "1867_003",
+    "wordCount": "frr. 1-3; Dup. partim 1867 002"
+  },
+  {
+    "author": "CRITOLAUS Hist. ",
+    "authorId": "2552",
+    "date": "ante 1 B.C.",
+    "geo": "ante 1 B.C.",
+    "title": "Fragmenta",
+    "workId": "2552_002",
+    "wordCount": "frr. 1-3 (fr. 3 verba Latina solum); Dup. partim 2552 001"
+  },
+  {
+    "author": "CYRANIDES Magica, Nat. Hist. ",
+    "authorId": "1482",
+    "date": "fort. auctoribus Cyrano et Harpocratione, vel Coiranides",
+    "geo": "fort. auctoribus Cyrano et Harpocratione, vel Coiranides",
+    "title": "Cyranides",
+    "workId": "1482_001",
+    "wordCount": "Cross ReferenceCf. et HARPOCRATIONIS EPISTULA {0691}"
+  },
+  {
+    "author": "DEMETRIUS Rhet. ",
+    "authorId": "0613",
+    "date": "1 B.C./A.D. 1?",
+    "geo": "1 B.C./A.D. 1?",
+    "title": "De elocutione",
+    "workId": "0613_001",
+    "wordCount": "15,441"
+  },
+  {
+    "author": "DEMETRIUS Poet. Phil. ",
+    "authorId": "1301",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta et titulus",
+    "workId": "1301_002",
+    "wordCount": "frr. 374, 376"
+  },
+  {
+    "author": "DEMETRIUS Rhet. ",
+    "authorId": "1302",
+    "date": "2/1 B.C.",
+    "geo": "2/1 B.C.",
+    "title": "Formae epistolicae",
+    "workId": "1302_001",
+    "wordCount": "1,831"
+  },
+  {
+    "author": "DEMETRIUS Rhet. ",
+    "authorId": "1302",
+    "date": "2/1 B.C.",
+    "geo": "2/1 B.C.",
+    "title": "Formae epistolicae (duo exempla spuria)",
+    "workId": "1302_002",
+    "wordCount": "170"
+  },
+  {
+    "author": "DIDYMUS Scriptor De Mensuris",
+    "authorId": "0357",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Mensurae marmorum ac lignorum",
+    "workId": "0357_001",
+    "wordCount": "1,309"
+  },
+  {
+    "author": "DIDYMUS Gramm. ",
+    "authorId": "1312",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "In Demosthenem (P. Berol. 9780)",
+    "workId": "1312_003",
+    "wordCount": "4,883"
+  },
+  {
+    "author": "DIDYMUS Gramm. ",
+    "authorId": "1312",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "De dubiis apud Platonem lectionibus [Sp.]",
+    "workId": "1312_005",
+    "wordCount": "Other EditionDe dubiis apud Platonem lectionibus {1312.004}E. Miller, Opuscules divers  Hildesheim: Olms,  1965]: 245-252."
+  },
+  {
+    "author": "DIO CHRYSOSTOMUS Soph. ",
+    "authorId": "0612",
+    "date": "vel Dio Cocceianus",
+    "geo": "vel Dio Cocceianus",
+    "title": "Orationes",
+    "workId": "0612_001",
+    "wordCount": "Cross ReferenceCf. et DIONIS EPISTULAE {1327}"
+  },
+  {
+    "author": "DIO CHRYSOSTOMUS Soph. ",
+    "authorId": "0612",
+    "date": "vel Dio Cocceianus",
+    "geo": "vel Dio Cocceianus",
+    "title": "Encomium comae",
+    "workId": "0612_002",
+    "wordCount": "Cross ReferenceCf. et DIONIS EPISTULAE {1327}"
+  },
+  {
+    "author": "DIO CHRYSOSTOMUS Soph. ",
+    "authorId": "0612",
+    "date": "vel Dio Cocceianus",
+    "geo": "vel Dio Cocceianus",
+    "title": "Fragmenta",
+    "workId": "0612_003",
+    "wordCount": "Cross ReferenceCf. et DIONIS EPISTULAE {1327}"
+  },
+  {
+    "author": "DIODORUS Rhet. ",
+    "authorId": "0165",
+    "date": "fiq Diodorus Sardianus Junior",
+    "geo": "fiq Diodorus Sardianus Junior",
+    "title": "Epigrammata",
+    "workId": "0165_001",
+    "wordCount": "199"
+  },
+  {
+    "author": "DIODORUS Rhet. ",
+    "authorId": "0165",
+    "date": "fiq Diodorus Sardianus Junior",
+    "geo": "fiq Diodorus Sardianus Junior",
+    "title": "Titulus",
+    "workId": "0165_002",
+    "wordCount": "fr. 384"
+  },
+  {
+    "author": "DIODORUS Eleg. ",
+    "authorId": "2652",
+    "date": "ante 1 B.C.",
+    "geo": "ante 1 B.C.",
+    "title": "Titulus",
+    "workId": "2652_001",
+    "wordCount": "fr. 381"
+  },
+  {
+    "author": "DIODORUS SICULUS Hist. ",
+    "authorId": "0060",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Bibliotheca historica (lib. 1-20)",
+    "workId": "0060_001",
+    "wordCount": "*Lib. 1-4: vol. 1, ed. Vogel; *Lib. 5-12: vol. 2, ed. Vogel; *Lib. 13-15: vol. 3, ed. Vogel; *Lib. 16-18: vol. 4, ed. Fischer; *Lib. 19-20: vol. 5, ed. Fischer"
+  },
+  {
+    "author": "DIODORUS SICULUS Hist. ",
+    "authorId": "0060",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta sedis incertae",
+    "workId": "0060_002",
+    "wordCount": "frr. 1-14"
+  },
+  {
+    "author": "DIODORUS SICULUS Hist. ",
+    "authorId": "0060",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Bibliotheca historica (lib. 21-40)",
+    "workId": "0060_003",
+    "wordCount": "*Lib. 21-32: vol. 11; *Lib. 33-40: vol. 12"
+  },
+  {
+    "author": "DIOGENIS SINOPENSIS EPISTULAE Epist. ",
+    "authorId": "1325",
+    "date": "2 B.C.-4 A.D.",
+    "geo": "2 B.C.-4 A.D.",
+    "title": "Epistulae",
+    "workId": "1325_001",
+    "wordCount": "Cross ReferenceCf. et DIOGENES Phil. et Trag. {0334}"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Antiquitates Romanae",
+    "workId": "0081_001",
+    "wordCount": "*Lib. 1-3: vol. 1; *Lib. 4-6: vol. 2; *Lib. 7-9: vol. 3; *Lib. 10-20: vol. 4"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "De antiquis oratoribus",
+    "workId": "0081_002",
+    "wordCount": "884"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "De Lysia",
+    "workId": "0081_003",
+    "wordCount": "7,762"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "De Isocrate",
+    "workId": "0081_004",
+    "wordCount": "6,409"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "De Isaeo",
+    "workId": "0081_005",
+    "wordCount": "5,339"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "De Demosthenis dictione",
+    "workId": "0081_006",
+    "wordCount": "21,961"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Libri secundi de antiquis oratoribus reliquiae",
+    "workId": "0081_007",
+    "wordCount": "222"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Ad Ammaeum",
+    "workId": "0081_008",
+    "wordCount": "3,416"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "De Dinarcho",
+    "workId": "0081_009",
+    "wordCount": "4,208"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "De Thucydide",
+    "workId": "0081_010",
+    "wordCount": "16,873"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "De Thucydidis idiomatibus (epistula ad Ammaeum)",
+    "workId": "0081_011",
+    "wordCount": "2,616"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "De compositione verborum",
+    "workId": "0081_012",
+    "wordCount": "20,860"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "De compositione verborum (epitome)",
+    "workId": "0081_013",
+    "wordCount": "9,667"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "De imitatione (fragmenta)",
+    "workId": "0081_014",
+    "wordCount": "frr. 1-3, 6-6a, 9-10; fr. 6 (De veterum censura): pp. 202.18-214.2"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Epistula ad Pompeium Geminum",
+    "workId": "0081_015",
+    "wordCount": "4,329"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Ars rhetorica [Sp.]",
+    "workId": "0081_016",
+    "wordCount": "22,866"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Testimonium",
+    "workId": "0081_017",
+    "wordCount": "22"
+  },
+  {
+    "author": "DIONYSIUS HALICARNASSENSIS Hist., Rhet. ",
+    "authorId": "0081",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "0081_018",
+    "wordCount": "1,691"
+  },
+  {
+    "author": "Pseudo-DIOSCORIDES Med. ",
+    "authorId": "1118",
+    "date": "Pseudo-Dioscurides Pedianus",
+    "geo": "Pseudo-Dioscurides Pedianus",
+    "title": "De venenis eorumque praecautione et medicatione (= Alexipharmaca)",
+    "workId": "1118_001",
+    "wordCount": "Cross ReferenceCf. et DIOSCORIDES PEDANIUS Med. {0656}"
+  },
+  {
+    "author": "Pseudo-DIOSCORIDES Med. ",
+    "authorId": "1118",
+    "date": "Pseudo-Dioscurides Pedianus",
+    "geo": "Pseudo-Dioscurides Pedianus",
+    "title": "De iis, quae virus ejaculantur, animalibus libellus, in quo et de rabioso cane (= Theriaca)",
+    "workId": "1118_002",
+    "wordCount": "Cross ReferenceCf. et DIOSCORIDES PEDANIUS Med. {0656}"
+  },
+  {
+    "author": "Pseudo-DIOSCORIDES Med. ",
+    "authorId": "1118",
+    "date": "Pseudo-Dioscurides Pedianus",
+    "geo": "Pseudo-Dioscurides Pedianus",
+    "title": "De lapidibus",
+    "workId": "1118_003",
+    "wordCount": "Cross ReferenceCf. et DIOSCORIDES PEDANIUS Med. {0656}"
+  },
+  {
+    "author": "DIOSCORIDES PEDANIUS Med. ",
+    "authorId": "0656",
+    "date": "Dioscurides Pedianus",
+    "geo": "Dioscurides Pedianus",
+    "title": "De materia medica",
+    "workId": "0656_001",
+    "wordCount": "Cross ReferencesCf. et Pseudo-DIOSCORIDES Med. {1118}Cf. et DIOSCORIDES PEDANIUS Med. {0656.003}"
+  },
+  {
+    "author": "DIOSCORIDES PEDANIUS Med. ",
+    "authorId": "0656",
+    "date": "Dioscurides Pedianus",
+    "geo": "Dioscurides Pedianus",
+    "title": "Euporista vel De simplicibus medicinis",
+    "workId": "0656_002",
+    "wordCount": "Cross ReferenceCf. et Pseudo-DIOSCORIDES Med. {1118}"
+  },
+  {
+    "author": "DIOSCORIDES PEDANIUS Med. ",
+    "authorId": "0656",
+    "date": "Dioscurides Pedianus",
+    "geo": "Dioscurides Pedianus",
+    "title": "De materia medica (recensiones e codd. Vindob. med. gr. 1 + suppl. gr. 28; Laur. 73, 41 + 73, 16 + Vind. 93)",
+    "workId": "0656_003",
+    "wordCount": "Cross ReferencesCf. et Pseudo-DIOSCORIDES Med. {1118}Cf. et DIOSCORIDES PEDANIUS Med. {0656.001}"
+  },
+  {
+    "author": "DIOSCORIDES PEDANIUS Med. ",
+    "authorId": "0656",
+    "date": "Dioscurides Pedianus",
+    "geo": "Dioscurides Pedianus",
+    "title": "Περὶ παιωνίας καὶ ὅσα ποιεῖν δύναται (e cod. Matrit. Bibl. Nat. 4616, fol. 159)",
+    "workId": "0656_004",
+    "wordCount": "Cross ReferenceCf. et Pseudo-DIOSCORIDES Med. {1118}"
+  },
+  {
+    "author": "DIOSCURIDES Hist. ",
+    "authorId": "2409",
+    "date": "fiq Dioscurides Isocratis discipulus, vel Dioscorides, vel Dioscorides compositor constitutionis Laconicae, vel Dioscurides Tarsensis Gramm.",
+    "geo": "fiq Dioscurides Isocratis discipulus, vel Dioscorides, vel Dioscorides compositor constitutionis Laconicae, vel Dioscurides Tarsensis Gramm.",
+    "title": "Fragmentum",
+    "workId": "2409_003",
+    "wordCount": "fr. 3 bis"
+  },
+  {
+    "author": "DIOSCURIDES Hist. ",
+    "authorId": "2409",
+    "date": "fiq Dioscurides Isocratis discipulus, vel Dioscorides, vel Dioscorides compositor constitutionis Laconicae, vel Dioscurides Tarsensis Gramm.",
+    "geo": "fiq Dioscurides Isocratis discipulus, vel Dioscorides, vel Dioscorides compositor constitutionis Laconicae, vel Dioscurides Tarsensis Gramm.",
+    "title": "Fragmenta",
+    "workId": "2409_004",
+    "wordCount": "frr. 1-8; Dup. partim 2409 002"
+  },
+  {
+    "author": "DIOTOGENES Phil. ",
+    "authorId": "1332",
+    "date": "4 B.C./A.D. 2",
+    "geo": "4 B.C./A.D. 2",
+    "title": "Fragmenta",
+    "workId": "1332_001",
+    "wordCount": "1,645"
+  },
+  {
+    "author": "DOROTHEUS Astrol. ",
+    "authorId": "1337",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Fragmenta Graeca",
+    "workId": "1337_001",
+    "wordCount": "26,974"
+  },
+  {
+    "author": "DOROTHEUS Astrol. ",
+    "authorId": "1337",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Fragmenta e Hephaestionis Ἀποτελεσματικῶν libris hausta",
+    "workId": "1337_002",
+    "wordCount": "1,303"
+  },
+  {
+    "author": "DOROTHEUS Astrol. ",
+    "authorId": "1337",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Fragmenta alia antiqua",
+    "workId": "1337_003",
+    "wordCount": "381"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Lusus verborum",
+    "workId": "1816_001",
+    "wordCount": "7"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Laudes Theonis gymnasiarchi (P. Oxy. 7.1015)",
+    "workId": "1816_002",
+    "wordCount": "146"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum epicum (Brit. Mus. inv. 1181)",
+    "workId": "1816_003",
+    "wordCount": "201"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Exercitatio ethopoeiaca (P. Ryl. 3.487)",
+    "workId": "1816_004",
+    "wordCount": "130"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum epicum historicum (P. Argent. 480 [= P. Strassb. inv. Gr. 480])",
+    "workId": "1816_005",
+    "wordCount": "242"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Mercurius mundi et Hermupolis magnae conditor (P. Argent. 481 [= P. Strassb. inv. Gr. 481])",
+    "workId": "1816_006",
+    "wordCount": "Dup. ANONYMI HISTORICI (FGrH) (1139 029)"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Epithalamium (P. Ryl. 1.17)",
+    "workId": "1816_007",
+    "wordCount": "41"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Exercitationes ethopoeiacae (collectio C. Graves)",
+    "workId": "1816_008",
+    "wordCount": "199"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Encomium iambicum (P. Vindob. gr. 29788b)",
+    "workId": "1816_009",
+    "wordCount": "290"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Λόγος ἐπιβατήριος (P. Vindob. gr. 29788a)",
+    "workId": "1816_010",
+    "wordCount": "162"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Laudatio professoris Smyrnaei in universitate Beryti docentis (P. Berol. 10559 A et B)",
+    "workId": "1816_011",
+    "wordCount": "525"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Laudatio professoris in universitate Beryti docentis (P. Berol. 10558)",
+    "workId": "1816_012",
+    "wordCount": "133"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum epicum historicum (P. Berol. 5003)",
+    "workId": "1816_013",
+    "wordCount": "449"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Encomium (PSI 2.149)",
+    "workId": "1816_014",
+    "wordCount": "72"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Encomium Heraclii ducis (PSI 3.253)",
+    "workId": "1816_015",
+    "wordCount": "380"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Encomium ducis Romani (P. Flor. 2.114)",
+    "workId": "1816_016",
+    "wordCount": "477"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Polyxena et Achilles (P. Flor. 390)",
+    "workId": "1816_017",
+    "wordCount": "78"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Exercitatio ethopoeiaca (Tab. lignea Caironensis)",
+    "workId": "1816_018",
+    "wordCount": "48"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Carmen in Nilum crescentem (PSI 7.845)",
+    "workId": "1816_019",
+    "wordCount": "90"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "In Thebas (P. Berol. 5226v)",
+    "workId": "1816_020",
+    "wordCount": "17"
+  },
+  {
+    "author": "EPICA ADESPOTA (GDRK) Epic. ",
+    "authorId": "1816",
+    "date": "A.D. 1-7",
+    "geo": "A.D. 1-7",
+    "title": "Fragmentum (sine titulo) (P. Berol. 5227r)",
+    "workId": "1816_021",
+    "wordCount": "7"
+  },
+  {
+    "author": "EPICTETUS Phil. ",
+    "authorId": "0557",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Dissertationes ab Arriano digestae",
+    "workId": "0557_001",
+    "wordCount": "75,036"
+  },
+  {
+    "author": "EPICTETUS Phil. ",
+    "authorId": "0557",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Dissertationum Epictetearum sive ab Arriano sive ab aliis digestarum fragmenta",
+    "workId": "0557_003",
+    "wordCount": "1,904"
+  },
+  {
+    "author": "EPICTETUS Phil. ",
+    "authorId": "0557",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Gnomologium Epicteteum (e Stobaei libris 1-2)",
+    "workId": "0557_004",
+    "wordCount": "279"
+  },
+  {
+    "author": "EPICTETUS Phil. ",
+    "authorId": "0557",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Gnomologium Epicteteum (e Stobaei libris 3-4)",
+    "workId": "0557_005",
+    "wordCount": "1,841"
+  },
+  {
+    "author": "EPICTETUS Phil. ",
+    "authorId": "0557",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Arriani epistula ad Lucium Gellium",
+    "workId": "0557_006",
+    "wordCount": "Dup. partim Flavius ARRIANUS Hist. et Phil. (0074 008)"
+  },
+  {
+    "author": "EPICTETUS Phil. ",
+    "authorId": "0557",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Enchiridion",
+    "workId": "0557_007",
+    "wordCount": "Other EditionEnchiridion {0557.002}H. Schenkl, Epicteti dissertationes ab Arriano digestae  Leipzig: Teubner,  1916 (repr. 1965)]: 5*-38*."
+  },
+  {
+    "author": "EPISTULAE PRIVATAE Epist. ",
+    "authorId": "0589",
+    "date": "3-1 B.C.",
+    "geo": "3-1 B.C.",
+    "title": "Epistulae",
+    "workId": "0589_001",
+    "wordCount": "Section 1: Epistulae Cleonis architecti, eius uxoris et filiorum, pp. 3-18; Section 2: Reliquae Epistulae III. Saeculi, pp. 19-35; Section 3: Epistulae ad Magnum Sarapeum pertinentes, pp. 37-68; Section 4: Reliquae Epistulae II. Saeculi, pp. 69-86; Section 5: Epistulae I. Saeculi, pp. 87-98; Section 6: Appendix, pp. 98-100"
+  },
+  {
+    "author": "EPITAPHIUM SICILI Mus. ",
+    "authorId": "2139",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Sicili epitaphium",
+    "workId": "2139_001",
+    "wordCount": "32"
+  },
+  {
+    "author": "EROTIANUS Gramm., Med. ",
+    "authorId": "0716",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Vocum Hippocraticarum collectio",
+    "workId": "0716_001",
+    "wordCount": "11,662"
+  },
+  {
+    "author": "EROTIANUS Gramm., Med. ",
+    "authorId": "0716",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta",
+    "workId": "0716_002",
+    "wordCount": "2,304"
+  },
+  {
+    "author": "ERYCIUS Poeta ",
+    "authorId": "2653",
+    "date": "fiq Erycius Cyzicenus",
+    "geo": "fiq Erycius Cyzicenus",
+    "title": "Fragmentum",
+    "workId": "2653_001",
+    "wordCount": "fr. 407"
+  },
+  {
+    "author": "EUDEMUS Poet. Med. ",
+    "authorId": "0888",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmentum",
+    "workId": "0888_001",
+    "wordCount": "fr. 412a: Dup. partim 0888 X01"
+  },
+  {
+    "author": "EUGENIUS Alchem. ",
+    "authorId": "4323",
+    "date": "A.D. 1/3",
+    "geo": "A.D. 1/3",
+    "title": "Εὐγενίου δίπλωσις (e cod. Venet. Marc. 299, fol. 185r)",
+    "workId": "4323_001",
+    "wordCount": "50"
+  },
+  {
+    "author": "EVANGELIUM SECUNDUM HEBRAEOS Apocryph., Evangel. ",
+    "authorId": "1374",
+    "date": "A.D. 1/2",
+    "geo": "A.D. 1/2",
+    "title": "Evangelium secundum Hebraeos",
+    "workId": "1374_001",
+    "wordCount": "Cross ReferenceCf. et EVANGELIUM EBIONITUM {1368}"
+  },
+  {
+    "author": "GEMINUS Astron. ",
+    "authorId": "1383",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Elementa astronomiae",
+    "workId": "1383_001",
+    "wordCount": "20,169"
+  },
+  {
+    "author": "GEMINUS Astron. ",
+    "authorId": "1383",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Calendarium [Sp.?]",
+    "workId": "1383_002",
+    "wordCount": "1,694"
+  },
+  {
+    "author": "GEMINUS Astron. ",
+    "authorId": "1383",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta optica [Dub.]",
+    "workId": "1383_005",
+    "wordCount": "652"
+  },
+  {
+    "author": "GLAUCUS Hist. ",
+    "authorId": "2460",
+    "date": "2 B.C./A.D. 3",
+    "geo": "2 B.C./A.D. 3",
+    "title": "Fragmenta",
+    "workId": "2460_002",
+    "wordCount": "frr. 1-4; Dup. 2460 001"
+  },
+  {
+    "author": "GORGIAS Hist. ",
+    "authorId": "2255",
+    "date": "A.D. 1-2?",
+    "geo": "A.D. 1-2?",
+    "title": "Fragmenta",
+    "workId": "2255_003",
+    "wordCount": "frr. 1-2; Dup. 2255 002"
+  },
+  {
+    "author": "HARMODIUS Trag. ",
+    "authorId": "0720",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Titulus",
+    "workId": "0720_001",
+    "wordCount": "2"
+  },
+  {
+    "author": "HARPOCRATION Gramm. ",
+    "authorId": "1389",
+    "date": "A.D. 1/2?",
+    "geo": "A.D. 1/2?",
+    "title": "Lexicon in decem oratores",
+    "workId": "1389_002",
+    "wordCount": "Other EditionLexicon in decem oratores Atticos {1389.001}W. Dindorf, Harpocrationis lexicon in decem oratores Atticos, vol. 1, Oxford: Oxford University Press, 1853 (repr. Groningen: Bouma, 1969): 1-310."
+  },
+  {
+    "author": "HELIODORUS Trag. ",
+    "authorId": "0750",
+    "date": "ante 1 B.C.",
+    "geo": "ante 1 B.C.",
+    "title": "Ἰταλικὰ θαύματα",
+    "workId": "0750_001",
+    "wordCount": "Dup. partim 0750 002 (fr. 472)"
+  },
+  {
+    "author": "HELIODORUS Trag. ",
+    "authorId": "0750",
+    "date": "ante 1 B.C.",
+    "geo": "ante 1 B.C.",
+    "title": "Fragmenta",
+    "workId": "0750_002",
+    "wordCount": "frr. 471-474; fr. 472 (Ἰταλικὰ θαύματα): Dup. 0750 001"
+  },
+  {
+    "author": "HERACLIDES Gramm. ",
+    "authorId": "1408",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fragmenta",
+    "workId": "1408_001",
+    "wordCount": "Περὶ καθολικῆς προσῳδίας (frr. 1-15): pp. 37-44; Περὶ δυσκλίτων ῥημάτων (frr. 16-55): pp. 45-64, 66-79, 81-91, 93-102; Fragmenta sedis incertae (frr. 56-60): pp. 103-106; Fragmenta dubia (frr. 61-62): pp. 106-107"
+  },
+  {
+    "author": "HERACLIDES Gramm. ",
+    "authorId": "1408",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Περὶ δυσκλίτων ῥημάτων (fragmentum) (P. Rain. 3.33A = P. Vindob. gr. 29815A)",
+    "workId": "1408_002",
+    "wordCount": "242"
+  },
+  {
+    "author": "HERACLIDES PONTICUS Junior Gramm. ",
+    "authorId": "0283",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta",
+    "workId": "0283_001",
+    "wordCount": "Cross ReferenceCf. et HERACLIDES LEMBUS Hist. {1407}"
+  },
+  {
+    "author": "HERACLIDES PONTICUS Junior Gramm. ",
+    "authorId": "0283",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta et titulus",
+    "workId": "0283_002",
+    "wordCount": "Cross ReferenceCf. et HERACLIDES LEMBUS Hist. {1407}"
+  },
+  {
+    "author": "HERACLITI EPHESII EPISTULAE Epist. ",
+    "authorId": "1411",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Epistulae",
+    "workId": "1411_001",
+    "wordCount": "Cross ReferencesCf. et Pseudo-HERACLITI EPISTULAE {1412}Cf. et HERACLITUS Phil. {0626}"
+  },
+  {
+    "author": "Pseudo-HERACLITI EPISTULAE Epist. ",
+    "authorId": "1412",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Epistulae",
+    "workId": "1412_001",
+    "wordCount": "Cross ReferencesCf. et HERACLITI EPHESII EPISTULAE {1411}Cf. et HERACLITUS Phil. {0626}"
+  },
+  {
+    "author": "HERACLITUS Phil. ",
+    "authorId": "1414",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Allegoriae (= Quaestiones Homericae)",
+    "workId": "1414_001",
+    "wordCount": "14,285"
+  },
+  {
+    "author": "(H)EREN(N)IUS PHILO Gramm., Hist. ",
+    "authorId": "1416",
+    "date": "Eranius Philo",
+    "geo": "Eranius Philo",
+    "title": "De diversis verborum significationibus (= Περὶ διαφόρους σημασίας) (epitome operis Herennii Philonis) (e cod. Paris.suppl. gr. 1238)",
+    "workId": "1416_001",
+    "wordCount": "Dup. partim 1416 007; Dup. partim AMMONIUS Gramm. (0708 001)"
+  },
+  {
+    "author": "(H)EREN(N)IUS PHILO Gramm., Hist. ",
+    "authorId": "1416",
+    "date": "Eranius Philo",
+    "geo": "Eranius Philo",
+    "title": "De adfinium vocabulorum differentia (lexeis additae e similibus epitomis operis ejusdem cum titulis aliis e codicibus variis aliis)",
+    "workId": "1416_002",
+    "wordCount": "Dup. partim 1416 001, 007, 1643 003, 4098 001 passim"
+  },
+  {
+    "author": "(H)EREN(N)IUS PHILO Gramm., Hist. ",
+    "authorId": "1416",
+    "date": "Eranius Philo",
+    "geo": "Eranius Philo",
+    "title": "De propria dictione (= Περὶ κυριολεξίας (epitome operis sub nomine Herennii Philonis) (e cod. Venet. Marciano gr. 512)",
+    "workId": "1416_003",
+    "wordCount": "233"
+  },
+  {
+    "author": "(H)EREN(N)IUS PHILO Gramm., Hist. ",
+    "authorId": "1416",
+    "date": "Eranius Philo",
+    "geo": "Eranius Philo",
+    "title": "De aetatum cognitione (= Γνῶσις περὶ ἡλικιῶν) (epitome opusculi sub nomine Herennii Philonis e codd. Ambrosiano C 222 + Berol. Phill. 1527)",
+    "workId": "1416_004",
+    "wordCount": "104"
+  },
+  {
+    "author": "(H)EREN(N)IUS PHILO Gramm., Hist. ",
+    "authorId": "1416",
+    "date": "Eranius Philo",
+    "geo": "Eranius Philo",
+    "title": "Testimonia",
+    "workId": "1416_005",
+    "wordCount": "203"
+  },
+  {
+    "author": "(H)EREN(N)IUS PHILO Gramm., Hist. ",
+    "authorId": "1416",
+    "date": "Eranius Philo",
+    "geo": "Eranius Philo",
+    "title": "Fragmenta",
+    "workId": "1416_006",
+    "wordCount": "frr. 1-7: Φοινικικὴ ἱστορία; frr. 9-11: Περὶ Ἰουδαίων; frr. 12-13: Παράδοξος ἱστορία; fr. 14: Περὶ χρηστομαθίας; frr. 15-51: Περὶ πόλεων καὶ οὓς ἑκάστη αὐτῶν ἐνδόξους ἤνεγκε; frr. 52-53: Περὶ κτήσεως καὶ ἐκλογῆς βιβλίων (περὶ ἰατρῶν); frr. 55-57: Fragmenta varia"
+  },
+  {
+    "author": "(H)EREN(N)IUS PHILO Gramm., Hist. ",
+    "authorId": "1416",
+    "date": "Eranius Philo",
+    "geo": "Eranius Philo",
+    "title": "De diversis verborum significationibus (= Περὶ διαφόρους σημασίας κατ’ ἀλφάβητον) (epitome operis Herennii Philonis) (e codd. Paris suppl. gr. 1270 + Leid. Voss. Misc. 14 + Bodl. d'Orville B 131 + Vat. regin. 131 + Laur. 42)",
+    "workId": "1416_007",
+    "wordCount": "Dup. partim 1416 001; Dup. partim AMMONIUS Gramm. (0708 001)"
+  },
+  {
+    "author": "(H)EREN(N)IUS PHILO Gramm., Hist. ",
+    "authorId": "1416",
+    "date": "Eranius Philo",
+    "geo": "Eranius Philo",
+    "title": "Fragmenta",
+    "workId": "1416_008",
+    "wordCount": "4,729"
+  },
+  {
+    "author": "HERMAEUS Hist. ",
+    "authorId": "2426",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Fragmentum",
+    "workId": "2426_002",
+    "wordCount": "fr. 1; Dup. 2426 001"
+  },
+  {
+    "author": "[HERMES] Alchem. ",
+    "authorId": "4325",
+    "date": "A.D. 1/3",
+    "geo": "A.D. 1/3",
+    "title": "Aenigma (sine titulo) (e cod. Venet. Marc. 299, fol. 95)",
+    "workId": "4325_001",
+    "wordCount": "13"
+  },
+  {
+    "author": "[HERMES] Alchem. ",
+    "authorId": "4325",
+    "date": "A.D. 1/3",
+    "geo": "A.D. 1/3",
+    "title": "Αἴνιγμα τοῦ φιλοσοφικοῦ λίθου Ἑρμοῦ καὶ Ἀγαθοδαίμονος (e cod. Paris. B.N. gr. 2327, fol. 234r)",
+    "workId": "4325_002",
+    "wordCount": "57"
+  },
+  {
+    "author": "HERMONAX Epic. ",
+    "authorId": "1425",
+    "date": "vel Hermon",
+    "geo": "vel Hermon",
+    "title": "Fragmenta",
+    "workId": "1425_001",
+    "wordCount": "frr. 1-2"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Pneumatica",
+    "workId": "0559_001",
+    "wordCount": "22,315"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De cherubim",
+    "workId": "0018_003",
+    "wordCount": "7,595"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De sacrificiis Abelis et Caini",
+    "workId": "0018_004",
+    "wordCount": "9,525"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Quod deterius potiori insidiari soleat",
+    "workId": "0018_005",
+    "wordCount": "11,286"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De posteritate Caini",
+    "workId": "0018_006",
+    "wordCount": "11,047"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De gigantibus",
+    "workId": "0018_007",
+    "wordCount": "3,264"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Quod deus sit immutabilis",
+    "workId": "0018_008",
+    "wordCount": "8,964"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De agricultura",
+    "workId": "0018_009",
+    "wordCount": "9,004"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De plantatione",
+    "workId": "0018_010",
+    "wordCount": "8,900"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De ebrietate",
+    "workId": "0018_011",
+    "wordCount": "Cross ReferenceCf. et PHILO JUDAEUS Phil. {0018.036}"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De sobrietate",
+    "workId": "0018_012",
+    "wordCount": "3,594"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De confusione linguarum",
+    "workId": "0018_013",
+    "wordCount": "10,328"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De migratione Abrahami",
+    "workId": "0018_014",
+    "wordCount": "12,578"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Quis rerum divinarum heres sit",
+    "workId": "0018_015",
+    "wordCount": "15,823"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De congressu eruditionis gratia",
+    "workId": "0018_016",
+    "wordCount": "8,893"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De fuga et inventione",
+    "workId": "0018_017",
+    "wordCount": "10,968"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De mutatione nominum",
+    "workId": "0018_018",
+    "wordCount": "13,141"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De somniis (lib. i-ii)",
+    "workId": "0018_019",
+    "wordCount": "Cross ReferenceCf. et PHILO JUDAEUS {0018.039}"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De Abrahamo",
+    "workId": "0018_020",
+    "wordCount": "13,330"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De Josepho",
+    "workId": "0018_021",
+    "wordCount": "12,812"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De vita Mosis (lib. i-ii)",
+    "workId": "0018_022",
+    "wordCount": "31,400"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De decalogo",
+    "workId": "0018_023",
+    "wordCount": "8,449"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De specialibus legibus (lib. i-iv)",
+    "workId": "0018_024",
+    "wordCount": "56,962"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De virtutibus",
+    "workId": "0018_025",
+    "wordCount": "12,184"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De praemiis et poenis et De exsecrationibus",
+    "workId": "0018_026",
+    "wordCount": "9,096"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Quod omnis probus liber sit",
+    "workId": "0018_027",
+    "wordCount": "7,619"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De vita contemplativa",
+    "workId": "0018_028",
+    "wordCount": "4,613"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De aeternitate mundi",
+    "workId": "0018_029",
+    "wordCount": "9,194"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "In Flaccum",
+    "workId": "0018_030",
+    "wordCount": "8,924"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Legatio ad Gaium",
+    "workId": "0018_031",
+    "wordCount": "Cross ReferenceCf. et PHILO JUDAEUS Phil. {0018.039}"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Hypothetica sive Apologia pro Judaeis",
+    "workId": "0018_032",
+    "wordCount": "2,502"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De providentia",
+    "workId": "0018_033",
+    "wordCount": "4,224"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Quaestiones in Genesim (fragmenta)",
+    "workId": "0018_034",
+    "wordCount": "8,893"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Quaestiones in Exodum (fragmenta)",
+    "workId": "0018_035",
+    "wordCount": "3,383"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De ebrietate ii",
+    "workId": "0018_036",
+    "wordCount": "Cross ReferenceCf. et PHILO JUDAEUS Phil. {0018.011}"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Περὶ ἀριθμῶν sive Ἀριθμητικά (fragmenta)",
+    "workId": "0018_038",
+    "wordCount": "9,309"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Fragmenta",
+    "workId": "0018_039",
+    "wordCount": "Legatio ad Gaium (frr. 17-18): pp. 80-81; De somniis (fr. 19): p. 81; Fragmenta incertae sedis (frr. 20-32): pp. 81-84"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De deo (P. Berol. inv. 17027)",
+    "workId": "0018_041",
+    "wordCount": "147"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Fragmenta incerti operis (P. Oxy. 18.2158)",
+    "workId": "0018_042",
+    "wordCount": "49"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Stoicorum Historia",
+    "workId": "1595_003",
+    "wordCount": "I*-LXXIX, pp. 48-128; Incertarum columnarum fragmenta, p. 130; Intimi voluminis fragmenta, p. 131"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ αἱρέσεων καὶ φυγῶν (P. Herc. 1251)",
+    "workId": "1595_011",
+    "wordCount": "1,660"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ εὐσεβείας (pars i) (P. Herc. 229, 247/242, 437/452, 1077, 1098, 1610, 1788)",
+    "workId": "1595_107",
+    "wordCount": "5,018"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ θανάτου (lib. iv) (P. Herc. 1050)",
+    "workId": "1595_120",
+    "wordCount": "5,321"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ μουσικῆς (lib. iv)",
+    "workId": "1595_210",
+    "wordCount": "14,111"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ οἰκονομίας",
+    "workId": "1595_240",
+    "wordCount": "4,973"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ οἰκονομίας (P. Herc. 1424)",
+    "workId": "1595_241",
+    "wordCount": "5,010"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ ὀργῆς (P. Herc. 182, reliqua fragmenta)",
+    "workId": "1595_267",
+    "wordCount": "6,070"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ ποιημάτων (lib. i) (P. Herc. 444, 460, 466, 1073, 1074a, 1081a)",
+    "workId": "1595_288",
+    "wordCount": "7,572"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ ποιημάτων (lib. ii) (P.Herc. 994, 1074b, 1081b, 1676-1677, 1419c)",
+    "workId": "1595_289",
+    "wordCount": "11,637"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ ποιημάτων (lib. iii-iv)",
+    "workId": "1595_290",
+    "wordCount": "Book 3: pp. 70-135; Book 4: pp. 244-310"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ ποιημάτων (lib. v) (P. Herc. 1425, 1538)",
+    "workId": "1595_291",
+    "wordCount": "4,199"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ ποιημάτων (lib. i) (P. Herc. 994)",
+    "workId": "1595_294",
+    "wordCount": "4,120"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ ποιημάτων (lib. v) (P. Herc. 1425, 1538)",
+    "workId": "1595_336",
+    "wordCount": "4,269"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ ῥητορικῆς (P. Herc. 220, 221, 224, 240, 245, 250, 380, 398, 408, 409, 425, 426, 455, 467, 468, 473, 1004, 1007, 1015/832, 1078/1080, 1079, 1086, 1095, 1114, 1117, 1423, 1426, 1427, 1506, 1573, 1580, 1612, 1633, 1669, 1672, 1674)",
+    "workId": "1595_370",
+    "wordCount": "Lib. 1: vol. 1, pp. 1-12; Lib. 2: vol. 1, pp. 13-146; vol. 2, pp. 65-130; Lib. 4.1: vol. 1, pp. 147-161; Lib. 4.2: vol. 1, pp. 162-182; Lib. 4.3: vol. 1, pp. 182-225; Lib. 4.4: vol. 1, pp. 225-270; Lib. 4.5: vol. 1, pp. 270-325; Lib. 4.6: vol. 1, pp. 325-385; Lib. 4.7: vol. 2, pp. 1-64; Lib. 5: vol. 2, pp. 131-167; Fragmenta incerta: vol. 2, pp. 168-195; Fragmenta (P. Herc. 1506): vol. 2, pp. 196-272; Fragmenta hypomnematici: vol. 2, pp. 273-303"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ ῥητορικῆς (lib. i) (P. Herc. 1115, 1813, 1606, 1601, 232, 234)",
+    "workId": "1595_371",
+    "wordCount": "3,768"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ ῥητορικῆς (?) (P. Herc. 1574, frr. 1-6)",
+    "workId": "1595_410",
+    "wordCount": "231"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ σημειώσεων (P. Herc. 1065)",
+    "workId": "1595_472",
+    "wordCount": "6,802"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ τοῦ καθ’ Ὅμηρον ἀγαθοῦ βασιλέως (P. Herc. 1507)",
+    "workId": "1595_492",
+    "wordCount": "3,790"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Πραγματεῖαι (P. Herc. 1418)",
+    "workId": "1595_583",
+    "wordCount": "1,961"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Πρὸς τοὺς [ἑταίρους] (lib. i) (P. Herc. 1005)",
+    "workId": "1595_597",
+    "wordCount": "2,918"
+  },
+  {
+    "author": "PHILODEMUS Phil. ",
+    "authorId": "1595",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Σύνταξις τῶν φιλοσόφων (P. Herc. 164, 1021)",
+    "workId": "1595_601",
+    "wordCount": "5,126"
+  },
+  {
+    "author": "PHILOXENUS Gramm. ",
+    "authorId": "1602",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1602_001",
+    "wordCount": "Περὶ μονοσυλλάβων ῥημάτων (frr. 1-31): pp. 93-110; Ex libro περὶ μονοσυλλάβων ῥημάτων (frr. 32-215): pp. 110-186; Ex libro περὶ σημείων τῶν ἐν τῇ Ἰλιάδι (frr. 216-217): pp. 187-188; Περὶ τῶν εἰς μι ληγόντων ῥημάτων (fr. 218): p. 188; Περὶ ἀναδιπλασιασμοῦ (frr. 219-232): pp. 188-196; Ex libro περὶ ἀναδιπλασιασμοῦ (frr. 233-284): pp. 196-220; Ex libro περὶ μέτρων (frr. 285, 287): pp. 221, 222; Περὶ Ἑλληνισμοῦ (frr. 288-289): pp. 222-223; Περὶ τῆς Ἰάδος διαλέκτου (frr. 290-304): pp. 223-231; Ex libro περὶ Ἰάδος διαλέκτου (frr. 305-310): pp. 231-234; Περὶ τῆς τῶν Ῥωμαίων διαλέκτου (frr. 311-322): pp. 234-239; Ex libro περὶ τῆς τῶν Ῥωμαίων διαλέκτου (frr. 323-329): pp. 240-242; Περὶ παραγώγων (fr. 330): p. 243; Περὶ συγκριτικῶν (frr. 331-335): pp. 243-245; Ex libro περὶ συγκριτικῶν (frr. 336-353): pp. 246-257; Ῥηματικόν (frr. 354-380): pp. 258-268; Ἐκ τοῦ ῥηματικοῦ (frr. 381-400): pp. 269-275; Ὑπόμνημα εἰς τὴν Ὀδύσσειαν (frr. 401-402): pp. 276-277; Ex commentario in Odysseam (frr. 403-406): pp. 277-280; Περὶ προσῳδιῶν (fr. 407): p. 280; Ex libro περὶ προσῳδιῶν (frr. 408-411): pp. 280-282; Ex libro περὶ ἐθνικῶν (fr. 412): p. 282; Fragmenta incertae sedis (frr. 413-634): pp. 283-367; Fragmenta dubia (frr. 635-691): pp. 367-387"
+  },
+  {
+    "author": "Pseudo-PHOCYLIDES Gnom. ",
+    "authorId": "1605",
+    "date": "vel PHOCYLIDEA",
+    "geo": "vel PHOCYLIDEA",
+    "title": "Sententiae",
+    "workId": "1605_001",
+    "wordCount": "1,588"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Theseus",
+    "workId": "0007_001",
+    "wordCount": "7,518"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Romulus",
+    "workId": "0007_002",
+    "wordCount": "9,266"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Thesei et Romuli",
+    "workId": "0007_003",
+    "wordCount": "1,161"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Lycurgus",
+    "workId": "0007_004",
+    "wordCount": "9,386"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Numa",
+    "workId": "0007_005",
+    "wordCount": "7,490"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Lycurgi et Numae",
+    "workId": "0007_006",
+    "wordCount": "1,591"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Solon",
+    "workId": "0007_007",
+    "wordCount": "8,583"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Publicola",
+    "workId": "0007_008",
+    "wordCount": "5,843"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Solonis et Publicolae",
+    "workId": "0007_009",
+    "wordCount": "953"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Themistocles",
+    "workId": "0007_010",
+    "wordCount": "8,003"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Camillus",
+    "workId": "0007_011",
+    "wordCount": "11,082"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Pericles",
+    "workId": "0007_012",
+    "wordCount": "10,072"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fabius Maximus",
+    "workId": "0007_013",
+    "wordCount": "7,740"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Periclis et Fabii Maximi",
+    "workId": "0007_014",
+    "wordCount": "717"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Alcibiades",
+    "workId": "0007_015",
+    "wordCount": "10,123"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Marcius Coriolanus",
+    "workId": "0007_016",
+    "wordCount": "9,375"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Alcibiadis et Marcii Coriolani",
+    "workId": "0007_017",
+    "wordCount": "1,076"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Timoleon",
+    "workId": "0007_018",
+    "wordCount": "8,865"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Aemilius Paullus",
+    "workId": "0007_019",
+    "wordCount": "9,873"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Aemilii Paulli et Timoleontis",
+    "workId": "0007_020",
+    "wordCount": "483"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Pelopidas",
+    "workId": "0007_021",
+    "wordCount": "9,477"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Marcellus",
+    "workId": "0007_022",
+    "wordCount": "8,467"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Pelopidae et Marcelli",
+    "workId": "0007_023",
+    "wordCount": "814"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Aristides",
+    "workId": "0007_024",
+    "wordCount": "8,185"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Cato Maior",
+    "workId": "0007_025",
+    "wordCount": "8,088"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Aristidis et Catonis",
+    "workId": "0007_026",
+    "wordCount": "1,465"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Philopoemen",
+    "workId": "0007_027",
+    "wordCount": "5,715"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Titus Flamininus",
+    "workId": "0007_028",
+    "wordCount": "5,850"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Philopoemenis et Titi Flaminini",
+    "workId": "0007_029",
+    "wordCount": "551"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Pyrrhus",
+    "workId": "0007_030",
+    "wordCount": "10,892"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Marius",
+    "workId": "0007_031",
+    "wordCount": "12,835"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Lysander",
+    "workId": "0007_032",
+    "wordCount": "8,126"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Sulla",
+    "workId": "0007_033",
+    "wordCount": "11,488"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Lysandri et Sullae",
+    "workId": "0007_034",
+    "wordCount": "1,237"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Cimon",
+    "workId": "0007_035",
+    "wordCount": "5,918"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Lucullus",
+    "workId": "0007_036",
+    "wordCount": "13,365"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Cimonis et Luculli",
+    "workId": "0007_037",
+    "wordCount": "989"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Nicias",
+    "workId": "0007_038",
+    "wordCount": "9,067"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "De automatis",
+    "workId": "0559_002",
+    "wordCount": "9,035"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Fragmenta de horoscopiis",
+    "workId": "0559_003",
+    "wordCount": "294"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Mechanicorum fragmenta",
+    "workId": "0559_004",
+    "wordCount": "3,172"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Catoptrica",
+    "workId": "0559_005",
+    "wordCount": "492"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Metrica",
+    "workId": "0559_006",
+    "wordCount": "20,711"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Dioptra",
+    "workId": "0559_007",
+    "wordCount": "13,071"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Definitiones",
+    "workId": "0559_008",
+    "wordCount": "14,589"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Geometrica",
+    "workId": "0559_009",
+    "wordCount": "32,879"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Stereometrica",
+    "workId": "0559_010",
+    "wordCount": "17,500"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "De mensuris",
+    "workId": "0559_011",
+    "wordCount": "5,012"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Belopoeica",
+    "workId": "0559_012",
+    "wordCount": "5,384"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Χειροβαλλίστρας κατασκευὴ καὶ συμμετρία",
+    "workId": "0559_013",
+    "wordCount": "1,056"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Fragmenta Heroniana",
+    "workId": "0559_014",
+    "wordCount": "2,659"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Geodaesia [Sp.]",
+    "workId": "0559_015",
+    "wordCount": "4,826"
+  },
+  {
+    "author": "HERON Mech. ",
+    "authorId": "0559",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Liber geeponicus [Sp.]",
+    "workId": "0559_016",
+    "wordCount": "6,365"
+  },
+  {
+    "author": "HESTIAEUS Hist. ",
+    "authorId": "1428",
+    "date": "ante A.D. 1",
+    "geo": "ante A.D. 1",
+    "title": "Fragmenta",
+    "workId": "1428_002",
+    "wordCount": "frr. 1-3; Dup. 1428 001"
+  },
+  {
+    "author": "IGNATIUS Scr. Eccl. ",
+    "authorId": "1443",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Epistulae vii genuinae (recensio media)",
+    "workId": "1443_001",
+    "wordCount": "Ad Ephesios (epist. 1): pp. 56-78; Ad Magnesios (epist. 2): pp. 80-92; Ad Trallianos (epist. 3): pp. 94-104; Ad Romanos (epist. 4): pp. 106-118; Ad Philadelphios (epist. 5): pp. 120-130; Ad Smyrnaeos (epist. 6): pp. 132-144; Ad Polycarpum (epist. 7): pp. 146-154"
+  },
+  {
+    "author": "IGNATIUS Scr. Eccl. ",
+    "authorId": "1443",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Epistulae interpolatae et epistulae suppositiciae (recensio longior) [Sp.]",
+    "workId": "1443_002",
+    "wordCount": "Epistula Mariae ad Ignatium (epist. 13): pp. 83-87; Ad Mariam Cassobolitam (epist. 1): pp. 88-92; Ad Trallianos (epist. 2): pp. 94-112; Ad Magnesios (epist. 3): pp. 112-132; Ad Tarsenses (epist. 4): pp. 132-144; Ad Philippenses (epist. 5): pp. 144-159; Ad Philadelphios (epist. 6): pp. 159-190; Ad Smyrnaeos (epist. 7): pp. 190-204; Ad Polycarpum (epist. 8): pp. 204-211; Ad Antiochenos (epist. 9): pp. 212-222; Ad Heronem diaconum ecclesiae Antiochenae (epist. 10): pp. 224-234; Ad Ephesios (epist. 11): pp. 234-258; Ad Romanos (epist. 12): pp. 258-268"
+  },
+  {
+    "author": "IGNATIUS Scr. Eccl. ",
+    "authorId": "1443",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fragmenta (e cod. Florent. Laur. 6.4) [Sp.]",
+    "workId": "1443_003",
+    "wordCount": "220"
+  },
+  {
+    "author": "ISIDORUS Scriptor Hymnorum",
+    "authorId": "0359",
+    "date": "ante 1 B.C.",
+    "geo": "ante 1 B.C.",
+    "title": "Hymni in Isim",
+    "workId": "0359_001",
+    "wordCount": "940"
+  },
+  {
+    "author": "ISIGONUS Paradox. ",
+    "authorId": "1083",
+    "date": "3 B.C./A.D. 1",
+    "geo": "3 B.C./A.D. 1",
+    "title": "Fragmenta",
+    "workId": "1083_002",
+    "wordCount": "Frr. 1-19  (frr. 1, 2, 3 verba Latina solum)"
+  },
+  {
+    "author": "[ISIS Prophetissa] Alchem. ",
+    "authorId": "4334",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Ἴσις προφῆτις τῷ υἱῷ  Ὥρῳ (redactio prima) (e cod. Paris. B.N. gr. 2327, fol. 256r)",
+    "workId": "4334_001",
+    "wordCount": "Cross ReferenceCf. et [ISIS Prophetissa] Alchem. (4334 002) {4334.002}"
+  },
+  {
+    "author": "[ISIS Prophetissa] Alchem. ",
+    "authorId": "4334",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Ἴσις προφῆτις τῷ υἱῷ  Ὥρῳ (redactio secunda) (e cod. Paris. B.N. gr. 2250, fol. 217r)",
+    "workId": "4334_002",
+    "wordCount": "Cross ReferenceCf. et [ISIS Prophetissa] Alchem. (4334 001) {4334.001}"
+  },
+  {
+    "author": "Flavius JOSEPHUS Hist. ",
+    "authorId": "0526",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Antiquitates Judaicae",
+    "workId": "0526_001",
+    "wordCount": "*Lib. 1-5: vol. 1; *Lib. 6-10: vol. 2; *Lib. 11-15: vol. 3; *Lib. 16-20: vol. 4"
+  },
+  {
+    "author": "Flavius JOSEPHUS Hist. ",
+    "authorId": "0526",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Josephi vita",
+    "workId": "0526_002",
+    "wordCount": "15,783"
+  },
+  {
+    "author": "Flavius JOSEPHUS Hist. ",
+    "authorId": "0526",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Contra Apionem (= De Judaeorum vetustate)",
+    "workId": "0526_003",
+    "wordCount": "22,646"
+  },
+  {
+    "author": "Flavius JOSEPHUS Hist. ",
+    "authorId": "0526",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "De bello Judaico libri vii",
+    "workId": "0526_004",
+    "wordCount": "125,274"
+  },
+  {
+    "author": "[JOSEPHUS ARIMATHENSUS] Theol. ",
+    "authorId": "3404",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Narratio Iosephi",
+    "workId": "3404_001",
+    "wordCount": "2,183"
+  },
+  {
+    "author": "JUBA II Rex Mauretaniae Hist. ",
+    "authorId": "1452",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Fragmenta",
+    "workId": "1452_003",
+    "wordCount": "Frr. 1-91 (frr. 22, 25, 26-29, 31, 35, 39, 39a, 40-65, 67, 68, 68a, 91b-d verba Latina solum)"
+  },
+  {
+    "author": "LEO Hist. ",
+    "authorId": "2186",
+    "date": "2 B.C./A.D. 2",
+    "geo": "2 B.C./A.D. 2",
+    "title": "Fragmentum",
+    "workId": "2186_003",
+    "wordCount": "fr. 1"
+  },
+  {
+    "author": "LIBER ENOCH Pseudepigr. ",
+    "authorId": "1463",
+    "date": "vel I Enoch",
+    "geo": "vel I Enoch",
+    "title": "Apocalypsis Enochi",
+    "workId": "1463_001",
+    "wordCount": "8,241"
+  },
+  {
+    "author": "LIBER ENOCH Pseudepigr. ",
+    "authorId": "1463",
+    "date": "vel I Enoch",
+    "geo": "vel I Enoch",
+    "title": "Apocalypsis Enochi (recensio ap. Syncellum) ",
+    "workId": "1463_002",
+    "wordCount": "2,142"
+  },
+  {
+    "author": "LIBER JUBILAEORUM Pseudepigr. ",
+    "authorId": "1464",
+    "date": "2/1 B.C.",
+    "geo": "2/1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1464_001",
+    "wordCount": "2,789"
+  },
+  {
+    "author": "[LONGINUS] Rhet. ",
+    "authorId": "0560",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "De sublimitate",
+    "workId": "0560_001",
+    "wordCount": "12,703"
+  },
+  {
+    "author": "LUCAS Apostolus Med. ",
+    "authorId": "0734",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Σκευασία ἁλατίου",
+    "workId": "0734_001",
+    "wordCount": "122"
+  },
+  {
+    "author": "Lucius Licinius LUCULLUS Hist. ",
+    "authorId": "1977",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1977_002",
+    "wordCount": "Frr. 1-3"
+  },
+  {
+    "author": "MELITO Trag. ",
+    "authorId": "0825",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Titulus",
+    "workId": "0825_001",
+    "wordCount": "1"
+  },
+  {
+    "author": "MEMNON Hist. ",
+    "authorId": "1496",
+    "date": "1 B.C.-A.D. 1?",
+    "geo": "1 B.C.-A.D. 1?",
+    "title": "Fragmenta",
+    "workId": "1496_003",
+    "wordCount": "Prol.; frr. 1-60; Dup. partim 1496 002"
+  },
+  {
+    "author": "MENELAUS Epic. ",
+    "authorId": "1504",
+    "date": "post 1 B.C.?",
+    "geo": "post 1 B.C.?",
+    "title": "Fragmenta et titulus",
+    "workId": "1504_003",
+    "wordCount": "frr. (+ titul.) 551-555; Dup. partim 1504 002"
+  },
+  {
+    "author": "MENETOR Hist. ",
+    "authorId": "4395",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmentum",
+    "workId": "4395_001",
+    "wordCount": "fr. 1 (Περὶ ἀναθεμάτων)"
+  },
+  {
+    "author": "MENIPPUS Geogr. ",
+    "authorId": "0079",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "0079_002",
+    "wordCount": "207"
+  },
+  {
+    "author": "METRODORUS Hist. ",
+    "authorId": "1976",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1976_003",
+    "wordCount": "frr. 1-14 (frr. 5, 6, 7, 7a, 8, 9, 11 verba Latina); Dup. 1976 002"
+  },
+  {
+    "author": "MIRACULA SANCTAE CRUCIS JESU CHRISTI Hagiogr. ",
+    "authorId": "5441",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Oratio de exaltatione (e cod. Athen. 217) (sub auctore Pantoleone presbytero monacho)",
+    "workId": "5441_001",
+    "wordCount": "3,763"
+  },
+  {
+    "author": "MITHRIDATIS EPISTULA Epist. ",
+    "authorId": "0039",
+    "date": "vel Mithridatis epistularum Bruti collectio",
+    "geo": "vel Mithridatis epistularum Bruti collectio",
+    "title": "Epistula",
+    "workId": "0039_001",
+    "wordCount": "Cross ReferenceCf. et BRUTI EPISTULAE {1803}"
+  },
+  {
+    "author": "MODERATUS Phil. ",
+    "authorId": "1890",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta",
+    "workId": "1890_001",
+    "wordCount": "frr. 1-3"
+  },
+  {
+    "author": "MOLPIS Hist. ",
+    "authorId": "1516",
+    "date": "2-1 B.C.",
+    "geo": "2-1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1516_003",
+    "wordCount": "frr. 1-4; Dup. 1516 002"
+  },
+  {
+    "author": "MOSES Alchem. ",
+    "authorId": "2181",
+    "date": "A.D. 1/2?",
+    "geo": "A.D. 1/2?",
+    "title": "Μωσέως δίπλωσις (e cod. Venet. Marc. 299, fol. 185r)",
+    "workId": "2181_001",
+    "wordCount": "52"
+  },
+  {
+    "author": "MOSES Alchem. ",
+    "authorId": "2181",
+    "date": "A.D. 1/2?",
+    "geo": "A.D. 1/2?",
+    "title": "Εὐποία καὶ εὐτυχία τοῦ κτισαμένου καὶ ἐπιτυχία καμάτου καὶ μακροχρονία βίου (e cod. Paris. B.N. gr. 2327, fol. 268v)",
+    "workId": "2181_002",
+    "wordCount": "3,685"
+  },
+  {
+    "author": "Gaius MUSONIUS RUFUS Phil. ",
+    "authorId": "0628",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Dissertationum a Lucio digestarum reliquiae",
+    "workId": "0628_001",
+    "wordCount": "frr. 1-21; fr. 15: P. Harr. 1 (inv. 3)"
+  },
+  {
+    "author": "Gaius MUSONIUS RUFUS Phil. ",
+    "authorId": "0628",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta minora",
+    "workId": "0628_002",
+    "wordCount": "frr. 22-48, 50-51, 53"
+  },
+  {
+    "author": "Gaius MUSONIUS RUFUS Phil. ",
+    "authorId": "0628",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistulae spuriae",
+    "workId": "0628_003",
+    "wordCount": "1,312"
+  },
+  {
+    "author": "Gaius MUSONIUS RUFUS Phil. ",
+    "authorId": "0628",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmentum",
+    "workId": "0628_004",
+    "wordCount": "22"
+  },
+  {
+    "author": "NICANDER Gramm. ",
+    "authorId": "1529",
+    "date": "3/1 B.C.",
+    "geo": "3/1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1529_003",
+    "wordCount": "frr. 1-2"
+  },
+  {
+    "author": "NICOCLES Hist. ",
+    "authorId": "1534",
+    "date": "ante 1 B.C.",
+    "geo": "ante 1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1534_002",
+    "wordCount": "frr. 1-3"
+  },
+  {
+    "author": "NICOLAUS Hist. ",
+    "authorId": "0577",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "0577_003",
+    "wordCount": "frr. 1-147 (fr. 73 verba Latina solum); Dup. partim 0577 002"
+  },
+  {
+    "author": "NINUS Narr. Fict. ",
+    "authorId": "1804",
+    "date": "vel Ninos",
+    "geo": "vel Ninos",
+    "title": "Ninus (fragmenta A-B) (P. Berol. 6926)",
+    "workId": "1804_003",
+    "wordCount": "Other EditionNinus {1804.001}F. Zimmermann, Griechische Roman-Papyri und verwandte Texte, Heidelberg: Bilabel, 1936: 14-35."
+  },
+  {
+    "author": "NINUS Narr. Fict. ",
+    "authorId": "1804",
+    "date": "vel Ninos",
+    "geo": "vel Ninos",
+    "title": "Ninus (fragmentum C) (PSI 13.1305)",
+    "workId": "1804_004",
+    "wordCount": "147"
+  },
+  {
+    "author": "NINUS Narr. Fict. ",
+    "authorId": "1804",
+    "date": "vel Ninos",
+    "geo": "vel Ninos",
+    "title": "Ninus (fragmentum D) (P. Gen. 85)",
+    "workId": "1804_005",
+    "wordCount": "18"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Evangelium secundum Matthaeum",
+    "workId": "0031_001",
+    "wordCount": "18,338"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Evangelium secundum Marcum",
+    "workId": "0031_002",
+    "wordCount": "11,299"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Evangelium secundum Lucam",
+    "workId": "0031_003",
+    "wordCount": "19,451"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Evangelium secundum Joannem",
+    "workId": "0031_004",
+    "wordCount": "15,635"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Acta apostolorum",
+    "workId": "0031_005",
+    "wordCount": "18,428"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Pauli ad Romanos",
+    "workId": "0031_006",
+    "wordCount": "7,104"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Pauli ad Corinthios i",
+    "workId": "0031_007",
+    "wordCount": "6,829"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Pauli ad Corinthios ii",
+    "workId": "0031_008",
+    "wordCount": "4,476"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Pauli ad Galatas",
+    "workId": "0031_009",
+    "wordCount": "2,230"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Pauli ad Ephesios",
+    "workId": "0031_010",
+    "wordCount": "2,423"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Pauli ad Philippenses",
+    "workId": "0031_011",
+    "wordCount": "1,629"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Pauli ad Colossenses",
+    "workId": "0031_012",
+    "wordCount": "1,583"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Pauli ad Thessalonicenses i",
+    "workId": "0031_013",
+    "wordCount": "1,481"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Pauli ad Thessalonicenses ii",
+    "workId": "0031_014",
+    "wordCount": "823"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Pauli ad Timotheum i",
+    "workId": "0031_015",
+    "wordCount": "1,593"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Pauli ad Timotheum ii",
+    "workId": "0031_016",
+    "wordCount": "1,241"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Pauli ad Titum",
+    "workId": "0031_017",
+    "wordCount": "661"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Pauli ad Philemonem",
+    "workId": "0031_018",
+    "wordCount": "337"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Pauli ad Hebraeos",
+    "workId": "0031_019",
+    "wordCount": "4,952"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Jacobi",
+    "workId": "0031_020",
+    "wordCount": "1,738"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Petri i",
+    "workId": "0031_021",
+    "wordCount": "1,682"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Petri ii",
+    "workId": "0031_022",
+    "wordCount": "1,100"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Joannis i",
+    "workId": "0031_023",
+    "wordCount": "2,142"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Joannis ii",
+    "workId": "0031_024",
+    "wordCount": "247"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Joannis iii",
+    "workId": "0031_025",
+    "wordCount": "221"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Epistula Juda",
+    "workId": "0031_026",
+    "wordCount": "460"
+  },
+  {
+    "author": "NOVUM TESTAMENTUM Relig. ",
+    "authorId": "0031",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Apocalypsis Joannis",
+    "workId": "0031_027",
+    "wordCount": "9,835"
+  },
+  {
+    "author": "ONASANDER Tact. ",
+    "authorId": "0648",
+    "date": "vel Onosander",
+    "geo": "vel Onosander",
+    "title": "Strategicus",
+    "workId": "0648_001",
+    "wordCount": "12,143"
+  },
+  {
+    "author": "ORACULA SIBYLLINA Orac. ",
+    "authorId": "1551",
+    "date": "2 B.C.-A.D. 4",
+    "geo": "2 B.C.-A.D. 4",
+    "title": "Oracula",
+    "workId": "1551_001",
+    "wordCount": "28,575"
+  },
+  {
+    "author": "ORACULA SIBYLLINA Orac. ",
+    "authorId": "1551",
+    "date": "2 B.C.-A.D. 4",
+    "geo": "2 B.C.-A.D. 4",
+    "title": "Fragmenta",
+    "workId": "1551_002",
+    "wordCount": "645"
+  },
+  {
+    "author": "ORATIO MANASSIS Pseudepigr. ",
+    "authorId": "1858",
+    "date": "1 B.C./A.D. 4?",
+    "geo": "1 B.C./A.D. 4?",
+    "title": "Oratio",
+    "workId": "1858_001",
+    "wordCount": "481"
+  },
+  {
+    "author": "OSTANES Magus Alchem. ",
+    "authorId": "1016",
+    "date": "vel Pseudo-Ostanes",
+    "geo": "vel Pseudo-Ostanes",
+    "title": "Ὀστάνου φιλοσόφου πρὸς Πετάσιον περὶ τῆς ἱερᾶς ταύτης καὶ θείας τέχνης (e cod. Venet. Marc. 299, fol. 66r)",
+    "workId": "1016_001",
+    "wordCount": "282"
+  },
+  {
+    "author": "PAMPHILA Hist. ",
+    "authorId": "1828",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta",
+    "workId": "1828_001",
+    "wordCount": "frr. 1-10 (frr. 7, 9 verba Latina)"
+  },
+  {
+    "author": "PARTHENIUS Myth. ",
+    "authorId": "0655",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Poesis reliquiae",
+    "workId": "0655_002",
+    "wordCount": "Elegiarum reliquiae (frr. 1-10): pp. 11-17; Carmina forma incerta (frr. 11-21): pp. 18-22, 24, 26; Incertae sedis fragmenta (frr. 22-46): pp. 26-37; Dup. partim 0655 003"
+  },
+  {
+    "author": "PARTHENIUS Myth. ",
+    "authorId": "0655",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta et tituli",
+    "workId": "0655_003",
+    "wordCount": "frr. (+ titul.) 606-612b, 614-636, 639-664, 666; frr. 609-612b, 614: P. Gen. 97; fr. 626: P. Lit. Lond. 64; Dup. partim 0655 002"
+  },
+  {
+    "author": "PARTHENIUS Myth. ",
+    "authorId": "0655",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Narrationes amatoriae",
+    "workId": "0655_004",
+    "wordCount": "Other EditionNarrationes amatoriae {0655.001}E. Martini, Parthenii Nicaeni quae supersunt, Leipzig: Teubner, 1902: 41-92."
+  },
+  {
+    "author": "PERIPLUS MARIS ERYTHRAEI Geogr. ",
+    "authorId": "0071",
+    "date": "vel Periplus maris Rubri (fort. auctore Arriano)",
+    "geo": "vel Periplus maris Rubri (fort. auctore Arriano)",
+    "title": "Anonymi (Arriani, ut fertur) periplus maris Erythraei (Arriani, ut fertur) periplus maris Erythraei",
+    "workId": "0071_001",
+    "wordCount": "6,274"
+  },
+  {
+    "author": "PERIPLUS MARIS ERYTHRAEI Geogr. ",
+    "authorId": "0071",
+    "date": "vel Periplus maris Rubri (fort. auctore Arriano)",
+    "geo": "vel Periplus maris Rubri (fort. auctore Arriano)",
+    "title": "Periplus maris Erythraei",
+    "workId": "0071_002",
+    "wordCount": "Other EditionAnonymi (Arriani, ut fertur) periplus maris Erythraei {0071.001}K. Müller, Geographi Graeci minores, vol. 1, Paris: Didot, 1855 (repr. Hildesheim: Olms, 1965): 257-305."
+  },
+  {
+    "author": "PHERENICUS Epic. ",
+    "authorId": "2636",
+    "date": "2 B.C./A.D. 2?",
+    "geo": "2 B.C./A.D. 2?",
+    "title": "Fragmentum",
+    "workId": "2636_001",
+    "wordCount": "fr. 671"
+  },
+  {
+    "author": "PHILO Med. ",
+    "authorId": "0706",
+    "date": "A.D. 1/2",
+    "geo": "A.D. 1/2",
+    "title": "Fragmentum",
+    "workId": "0706_001",
+    "wordCount": "fr. 690; Dup. 0706 X01"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "De opificio mundi",
+    "workId": "0018_001",
+    "wordCount": "13,325"
+  },
+  {
+    "author": "PHILO JUDAEUS Phil. ",
+    "authorId": "0018",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Legum allegoriarum libri i-iii",
+    "workId": "0018_002",
+    "wordCount": "31,865"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Crassus",
+    "workId": "0007_039",
+    "wordCount": "10,280"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Niciae et Crassi",
+    "workId": "0007_040",
+    "wordCount": "1,217"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Eumenes",
+    "workId": "0007_041",
+    "wordCount": "5,520"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Sertorius",
+    "workId": "0007_042",
+    "wordCount": "6,667"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Eumenis et Sertorii",
+    "workId": "0007_043",
+    "wordCount": "398"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Agesilaus",
+    "workId": "0007_044",
+    "wordCount": "10,721"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Pompeius",
+    "workId": "0007_045",
+    "wordCount": "20,102"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Agesilai et Pompeii",
+    "workId": "0007_046",
+    "wordCount": "1,084"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Alexander",
+    "workId": "0007_047",
+    "wordCount": "20,065"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Caesar",
+    "workId": "0007_048",
+    "wordCount": "16,059"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Phocion",
+    "workId": "0007_049",
+    "wordCount": "8,195"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Cato Minor",
+    "workId": "0007_050",
+    "wordCount": "16,668"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Agis et Cleomenes",
+    "workId": "0007_051",
+    "wordCount": "13,493"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Tiberius et Gaius Gracchus",
+    "workId": "0007_052",
+    "wordCount": "9,235"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Agidis et Cleomenis cum Tiberio et Gaio Graccho",
+    "workId": "0007_053",
+    "wordCount": "977"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Demosthenes",
+    "workId": "0007_054",
+    "wordCount": "6,959"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Cicero",
+    "workId": "0007_055",
+    "wordCount": "12,035"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Demosthenis et Ciceronis",
+    "workId": "0007_056",
+    "wordCount": "988"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Demetrius",
+    "workId": "0007_057",
+    "wordCount": "12,314"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Antonius",
+    "workId": "0007_058",
+    "wordCount": "18,514"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Demetrii et Antonii",
+    "workId": "0007_059",
+    "wordCount": "884"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Dion",
+    "workId": "0007_060",
+    "wordCount": "11,839"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Brutus",
+    "workId": "0007_061",
+    "wordCount": "11,997"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparatio Dionis et Bruti",
+    "workId": "0007_062",
+    "wordCount": "938"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Aratus",
+    "workId": "0007_063",
+    "wordCount": "11,827"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Artaxerxes",
+    "workId": "0007_064",
+    "wordCount": "7,407"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Galba",
+    "workId": "0007_065",
+    "wordCount": "6,146"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Otho",
+    "workId": "0007_066",
+    "wordCount": "4,128"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De liberis educandis [Sp.] (1a-14c)",
+    "workId": "0007_067",
+    "wordCount": "6,142"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Quomodo adolescens poetas audire debeat (14d-37b)",
+    "workId": "0007_068",
+    "wordCount": "9,884"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De recta ratione audiendi (37b-48d)",
+    "workId": "0007_069",
+    "wordCount": "5,118"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Quomodo adulator ab amico internoscatur (48e-74e)",
+    "workId": "0007_070",
+    "wordCount": "11,778"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Quomodo quis suos in virtute sentiat profectus (75a-86a)",
+    "workId": "0007_071",
+    "wordCount": "5,053"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De capienda ex inimicis utilitate (86b-92f)",
+    "workId": "0007_072",
+    "wordCount": "3,001"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De amicorum multitudine (93a-97b)",
+    "workId": "0007_073",
+    "wordCount": "1,819"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De fortuna (97c-100a)",
+    "workId": "0007_074",
+    "wordCount": "1,262"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De virtute et vitio (100b-101e)",
+    "workId": "0007_075",
+    "wordCount": "669"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Consolatio ad Apollonium [Sp.] (101f-122a)",
+    "workId": "0007_076",
+    "wordCount": "9,238"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De tuenda sanitate praecepta (122b-137e)",
+    "workId": "0007_077",
+    "wordCount": "6,915"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Conjugalia praecepta (138a-146a)",
+    "workId": "0007_078",
+    "wordCount": "3,722"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Septem sapientium convivium (146b-164d)",
+    "workId": "0007_079",
+    "wordCount": "8,742"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De superstitione (164e-171f)",
+    "workId": "0007_080",
+    "wordCount": "3,326"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Regum et imperatorum apophthegmata [Sp.?] (172b-208a)",
+    "workId": "0007_081",
+    "wordCount": "16,113"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Apophthegmata Laconica [Sp.?] (208b-242d)",
+    "workId": "0007_082",
+    "wordCount": "Apophthegmata Laconica (208b-236e): pp. 110-165, 167-203; Instituta Laconica (236f-240b): pp. 204-215; Lacaenarum apophthegmata (240c-242d): pp. 216-224"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Mulierum virtutes (242e-263c)",
+    "workId": "0007_083",
+    "wordCount": "9,481"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Aetia Romana et Graeca (263d-304f)",
+    "workId": "0007_084",
+    "wordCount": "= Quaestiones Romanae et Graecae"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Parallela minora [Sp.] (305a-316b)",
+    "workId": "0007_085",
+    "wordCount": "4,933"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De fortuna Romanorum (316c-326c)",
+    "workId": "0007_086",
+    "wordCount": "4,768"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De Alexandri magni fortuna aut virtute (326d-345b)",
+    "workId": "0007_087",
+    "wordCount": "8,411"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De gloria Atheniensium (345c-351b)",
+    "workId": "0007_088",
+    "wordCount": "2,731"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De Iside et Osiride (351c-384c)",
+    "workId": "0007_089",
+    "wordCount": "16,080"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De E apud Delphos (384d-394c)",
+    "workId": "0007_090",
+    "wordCount": "4,938"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De Pythiae oraculis (394d-409d)",
+    "workId": "0007_091",
+    "wordCount": "7,213"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De defectu oraculorum (409e-438d)",
+    "workId": "0007_092",
+    "wordCount": "13,679"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "An virtus doceri possit (439a-440c)",
+    "workId": "0007_093",
+    "wordCount": "663"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De virtute morali (440d-452d)",
+    "workId": "0007_094",
+    "wordCount": "5,857"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De cohibenda ira (452f-464d)",
+    "workId": "0007_095",
+    "wordCount": "5,526"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De tranquillitate animi (464e-477f)",
+    "workId": "0007_096",
+    "wordCount": "6,143"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De fraterno amore (478a-492d)",
+    "workId": "0007_097",
+    "wordCount": "6,666"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De amore prolis (493a-497e)",
+    "workId": "0007_098",
+    "wordCount": "2,224"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "An vitiositas ad infelicitatem sufficiat (498a-500a)",
+    "workId": "0007_099",
+    "wordCount": "879"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Animine an corporis affectiones sint peiores (500b-502a)",
+    "workId": "0007_100",
+    "wordCount": "862"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De garrulitate (502b-515a)",
+    "workId": "0007_101",
+    "wordCount": "5,950"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De curiositate (515b-523b)",
+    "workId": "0007_102",
+    "wordCount": "3,767"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De cupiditate divitiarum (523c-528b)",
+    "workId": "0007_103",
+    "wordCount": "2,251"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De vitioso pudore (528c-536d)",
+    "workId": "0007_104",
+    "wordCount": "3,693"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De invidia et odio (536e-538e)",
+    "workId": "0007_105",
+    "wordCount": "1,004"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De laude ipsius (539a-547f)",
+    "workId": "0007_106",
+    "wordCount": "4,031"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De sera numinis vindicta (548a-568a)",
+    "workId": "0007_107",
+    "wordCount": "9,406"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De fato [Sp.] (568b-574f)",
+    "workId": "0007_108",
+    "wordCount": "3,467"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De genio Socratis (575a-598f)",
+    "workId": "0007_109",
+    "wordCount": "11,563"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De exilio (599a-607f)",
+    "workId": "0007_110",
+    "wordCount": "4,117"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Consolatio ad uxorem (608a-612b)",
+    "workId": "0007_111",
+    "wordCount": "1,966"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Quaestiones convivales (612c-748d)",
+    "workId": "0007_112",
+    "wordCount": "63,019"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Amatorius (748e-771e)",
+    "workId": "0007_113",
+    "wordCount": "11,035"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Amatoriae narrationes [Sp.] (771e-775e)",
+    "workId": "0007_114",
+    "wordCount": "1,821"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Maxime cum principibus philosopho esse disserendum (776a-779c)",
+    "workId": "0007_115",
+    "wordCount": "1,534"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Ad principem ineruditum (779d-782f)",
+    "workId": "0007_116",
+    "wordCount": "1,592"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "An seni respublica gerenda sit (783b-797f)",
+    "workId": "0007_117",
+    "wordCount": "6,732"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Praecepta gerendae reipublicae (798a-825f)",
+    "workId": "0007_118",
+    "wordCount": "12,439"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De unius in republica dominatione, populari statu, et paucorum imperio (826a-827c)",
+    "workId": "0007_119",
+    "wordCount": "556"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De vitando aere alieno (827d-832a)",
+    "workId": "0007_120",
+    "wordCount": "2,006"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Vitae decem oratorum [Sp.] (832b-852e)",
+    "workId": "0007_121",
+    "wordCount": "9,292"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Comparationis Aristophanis et Menandri compendium (853a-854d)",
+    "workId": "0007_122",
+    "wordCount": "725"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De Herodoti malignitate (854e-874c)",
+    "workId": "0007_123",
+    "wordCount": "8,998"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Aetia physica (911c-919e)",
+    "workId": "0007_125",
+    "wordCount": "= Quaestiones naturales"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De facie in orbe lunae (920b-945e)",
+    "workId": "0007_126",
+    "wordCount": "12,793"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De primo frigido (945f-955c)",
+    "workId": "0007_127",
+    "wordCount": "5,045"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Aquane an ignis sit utilior [Sp.] (955d-958e)",
+    "workId": "0007_128",
+    "wordCount": "1,634"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De sollertia animalium (959a-985c)",
+    "workId": "0007_129",
+    "wordCount": "12,487"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Bruta animalia ratione uti (985d-992e)",
+    "workId": "0007_130",
+    "wordCount": "3,464"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De esu carnium i (993a-996c)",
+    "workId": "0007_131",
+    "wordCount": "1,602"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De esu carnium ii (996d-999b)",
+    "workId": "0007_132",
+    "wordCount": "1,266"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Platonicae quaestiones (999c-1011e)",
+    "workId": "0007_133",
+    "wordCount": "6,320"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De animae procreatione in Timaeo (1012b-1030c)",
+    "workId": "0007_134",
+    "wordCount": "9,557"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Epitome libri de animae procreatione in Timaeo (1030d-1032f)",
+    "workId": "0007_135",
+    "wordCount": "1,208"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De Stoicorum repugnantiis (1033a-1057b)",
+    "workId": "0007_136",
+    "wordCount": "12,128"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Stoicos absurdiora poetis dicere (1057c-1058e)",
+    "workId": "0007_137",
+    "wordCount": "515"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De communibus notitiis adversus Stoicos (1058e-1086b)",
+    "workId": "0007_138",
+    "wordCount": "13,840"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Non posse suaviter vivi secundum Epicurum (1086c-1107c)",
+    "workId": "0007_139",
+    "wordCount": "9,811"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Adversus Colotem (1107d-1127e)",
+    "workId": "0007_140",
+    "wordCount": "10,002"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De latenter vivendo (1128a-1130e)",
+    "workId": "0007_141",
+    "wordCount": "1,264"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De libidine et aegritudine",
+    "workId": "0007_143",
+    "wordCount": "1,655"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Parsne an facultas animi sit vita passiva",
+    "workId": "0007_144",
+    "wordCount": "1,103"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fragmenta",
+    "workId": "0007_145",
+    "wordCount": "22,258"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Παροιμίαι αἷς Ἀλεξανδρεῖς ἐχρῶντο",
+    "workId": "0007_146",
+    "wordCount": "2,673"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Ἐκλογὴ περὶ τῶν ἀδυνάτων",
+    "workId": "0007_147",
+    "wordCount": "165"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fragmenta",
+    "workId": "0007_148",
+    "wordCount": "482"
+  },
+  {
+    "author": "PLUTARCHUS Biogr., Phil. ",
+    "authorId": "0007",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De proverbiis Alexandrinorum [Sp.]",
+    "workId": "0007_149",
+    "wordCount": "2,307"
+  },
+  {
+    "author": "POLEMAEUS Trag. ",
+    "authorId": "0625",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Tituli",
+    "workId": "0625_001",
+    "wordCount": "frr. 1-2"
+  },
+  {
+    "author": "Marcus Antonius POLEMON Soph. ",
+    "authorId": "1617",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Fragmentum physiognomonicum",
+    "workId": "1617_002",
+    "wordCount": "27"
+  },
+  {
+    "author": "Marcus Antonius POLEMON Soph. ",
+    "authorId": "1617",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Declamationes",
+    "workId": "1617_003",
+    "wordCount": "Other EditionDeclamationes {1617.001}H. Hinck, Polemonis declamationes quae exstant duae, Leipzig: Teubner, 1873: 3-39."
+  },
+  {
+    "author": "POLYCARPUS Scr. Eccl. ",
+    "authorId": "1622",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Epistula ad Philippenses",
+    "workId": "1622_001",
+    "wordCount": "1,142"
+  },
+  {
+    "author": "POLYCRATES Hist. ",
+    "authorId": "1627",
+    "date": "ante 1 B.C.",
+    "geo": "ante 1 B.C.",
+    "title": "Fragmentum",
+    "workId": "1627_002",
+    "wordCount": "fr. 1; Dup. 1627 001"
+  },
+  {
+    "author": "POMPEIUS MACER Trag. ",
+    "authorId": "0346",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Fragmentum",
+    "workId": "0346_001",
+    "wordCount": "fr. 1"
+  },
+  {
+    "author": "POSIDONIUS Phil. ",
+    "authorId": "1052",
+    "date": "2-1 B.C.",
+    "geo": "2-1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1052_001",
+    "wordCount": "Dup. partim 1052 003"
+  },
+  {
+    "author": "POSIDONIUS Phil. ",
+    "authorId": "1052",
+    "date": "2-1 B.C.",
+    "geo": "2-1 B.C.",
+    "title": "Testimonia",
+    "workId": "1052_002",
+    "wordCount": "782"
+  },
+  {
+    "author": "POSIDONIUS Phil. ",
+    "authorId": "1052",
+    "date": "2-1 B.C.",
+    "geo": "2-1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1052_003",
+    "wordCount": "Dup. partim 1052 001"
+  },
+  {
+    "author": "POTAMON Hist. ",
+    "authorId": "1949",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Fragmenta",
+    "workId": "1949_003",
+    "wordCount": "frr. 1-2; Dup. 1949 001-002"
+  },
+  {
+    "author": "PRAECEPTA SALUBRIA Med. ",
+    "authorId": "0663",
+    "date": "fort. auctore Asclepiade Bithynio",
+    "geo": "fort. auctore Asclepiade Bithynio",
+    "title": "Praecepta salubria",
+    "workId": "0663_001",
+    "wordCount": "609"
+  },
+  {
+    "author": "PRISCUS Epic. ",
+    "authorId": "2641",
+    "date": "fiq Clutorius Priscus",
+    "geo": "fiq Clutorius Priscus",
+    "title": "Titulus",
+    "workId": "2641_001",
+    "wordCount": "fr. 710a"
+  },
+  {
+    "author": "PTOLEMAEUS Gramm. ",
+    "authorId": "1643",
+    "date": "2 B.C./A.D. 2",
+    "geo": "2 B.C./A.D. 2",
+    "title": "De differentia vocabulorum (= Περὶ διαφορᾶς λέξεων) [Sp.] (e codd. Ottobon. gr. 43 + Vat. gr. 197)",
+    "workId": "1643_003",
+    "wordCount": "Dup. partim 1643 004"
+  },
+  {
+    "author": "PTOLEMAEUS Gramm. ",
+    "authorId": "1643",
+    "date": "2 B.C./A.D. 2",
+    "geo": "2 B.C./A.D. 2",
+    "title": "De differentia vocabulorum (= Περὶ διαφορᾶς λέξεων κατὰ στοιχεῖον) [Sp.] (e cod. Ambros. E 26 sup.)",
+    "workId": "1643_004",
+    "wordCount": "= Ptolemaeus (Ambrosianus qui dicitur) de differentia vocabulorum in litteram; Dup. partim 1643 003"
+  },
+  {
+    "author": "RES GESTAE DIVI AUGUSTI Hist. ",
+    "authorId": "1068",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Res gestae (monumentum Ancyranum)",
+    "workId": "1068_001",
+    "wordCount": "2,773"
+  },
+  {
+    "author": "RUFUS Med. ",
+    "authorId": "0564",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De renum et vesicae morbis",
+    "workId": "0564_001",
+    "wordCount": "6,855"
+  },
+  {
+    "author": "RUFUS Med. ",
+    "authorId": "0564",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De satyriasmo et gonorrhoea",
+    "workId": "0564_002",
+    "wordCount": "2,315"
+  },
+  {
+    "author": "RUFUS Med. ",
+    "authorId": "0564",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De corporis humani appellationibus",
+    "workId": "0564_003",
+    "wordCount": "4,850"
+  },
+  {
+    "author": "RUFUS Med. ",
+    "authorId": "0564",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De partibus corporis humani",
+    "workId": "0564_004",
+    "wordCount": "2,255"
+  },
+  {
+    "author": "RUFUS Med. ",
+    "authorId": "0564",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De ossibus",
+    "workId": "0564_005",
+    "wordCount": "1,047"
+  },
+  {
+    "author": "RUFUS Med. ",
+    "authorId": "0564",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Quaestiones medicinales",
+    "workId": "0564_006",
+    "wordCount": "3,440"
+  },
+  {
+    "author": "RUFUS Med. ",
+    "authorId": "0564",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Synopsis de pulsibus",
+    "workId": "0564_007",
+    "wordCount": "1,803"
+  },
+  {
+    "author": "Publius RUTILIUS RUFUS Hist. ",
+    "authorId": "2546",
+    "date": "2-1 B.C.",
+    "geo": "2-1 B.C.",
+    "title": "Fragmenta",
+    "workId": "2546_003",
+    "wordCount": "frr. 1-7 (frr. 1, 2, 3, 7 verba Latina solum); Dup. partim 2546 002"
+  },
+  {
+    "author": "SCHOLIA IN TIMAEUM LOCRUM Schol. ",
+    "authorId": "5054",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Scholia in Timaeum Locrum",
+    "workId": "5054_001",
+    "wordCount": "Cross ReferenceCf. et TIMAEUS Phil. {1734}"
+  },
+  {
+    "author": "Pseudo-SCYMNUS Geogr. ",
+    "authorId": "0068",
+    "date": "vel Pausanias Damascenus",
+    "geo": "vel Pausanias Damascenus",
+    "title": "Ad Nicomedem regem, vv. 1-980 (sub titulo Orbis descriptio)",
+    "workId": "0068_001",
+    "wordCount": "5,590"
+  },
+  {
+    "author": "Pseudo-SCYMNUS Geogr. ",
+    "authorId": "0068",
+    "date": "vel Pausanias Damascenus",
+    "geo": "vel Pausanias Damascenus",
+    "title": "Ad Nicomedem regem, vv. 722-1026",
+    "workId": "0068_002",
+    "wordCount": "Dup. partim 0068 001"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Genesis",
+    "workId": "0527_001",
+    "wordCount": "32,567"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Exodus",
+    "workId": "0527_002",
+    "wordCount": "24,817"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Leviticus",
+    "workId": "0527_003",
+    "wordCount": "19,083"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Numeri",
+    "workId": "0527_004",
+    "wordCount": "25,060"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Deuteronomium",
+    "workId": "0527_005",
+    "wordCount": "22,991"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Josue (Cod. Vaticanus + Cod. Alexandrinus)",
+    "workId": "0527_006",
+    "wordCount": "Cod. Vat. + Cod. Alex.: 354-381, 384-388, 392-405; Cod. Vat. solum: 382-384, 388-392"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Josue (Cod. Alexandrinus)",
+    "workId": "0527_007",
+    "wordCount": "1,064"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Judices (Cod. Alexandrinus)",
+    "workId": "0527_008",
+    "wordCount": "15,948"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Judices (Cod. Vaticanus)",
+    "workId": "0527_009",
+    "wordCount": "15,580"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Ruth",
+    "workId": "0527_010",
+    "wordCount": "2,073"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Regnorum i (Samuelis i in textu Masoretico)",
+    "workId": "0527_011",
+    "wordCount": "20,133"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Regnorum ii (Samuelis ii in textu Masoretico)",
+    "workId": "0527_012",
+    "wordCount": "17,929"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Regnorum iii (Regum i in textu Masoretico)",
+    "workId": "0527_013",
+    "wordCount": "20,805"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Regnorum iv (Regum ii in textu Masoretico)",
+    "workId": "0527_014",
+    "wordCount": "18,855"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Paralipomenon i sive Chronicon i",
+    "workId": "0527_015",
+    "wordCount": "16,249"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Paralipomenon ii sive Chronicon ii",
+    "workId": "0527_016",
+    "wordCount": "21,356"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Esdras i (liber apocryphus)",
+    "workId": "0527_017",
+    "wordCount": "8,997"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Esdras ii (Ezra et Nehemias in textu Masoretico)",
+    "workId": "0527_018",
+    "wordCount": "13,266"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Esther",
+    "workId": "0527_019",
+    "wordCount": "5,844"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Judith",
+    "workId": "0527_020",
+    "wordCount": "9,175"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Tobias (Cod. Vaticanus + Cod. Alexandrinus)",
+    "workId": "0527_021",
+    "wordCount": "5,504"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Tobias (Cod. Sinaiticus)",
+    "workId": "0527_022",
+    "wordCount": "7,233"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Machabaeorum i",
+    "workId": "0527_023",
+    "wordCount": "18,294"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Machabaeorum ii",
+    "workId": "0527_024",
+    "wordCount": "11,919"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Machabaeorum iii",
+    "workId": "0527_025",
+    "wordCount": "5,112"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Machabaeorum iv",
+    "workId": "0527_026",
+    "wordCount": "7,861"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Psalmi",
+    "workId": "0527_027",
+    "wordCount": "34,965"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Odae",
+    "workId": "0527_028",
+    "wordCount": "Oda 12, Oratio Manassis: apocrypha est"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Proverbia",
+    "workId": "0527_029",
+    "wordCount": "11,165"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Ecclesiastes",
+    "workId": "0527_030",
+    "wordCount": "4,547"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Canticum",
+    "workId": "0527_031",
+    "wordCount": "2,026"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Job",
+    "workId": "0527_032",
+    "wordCount": "13,562"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Sapientia Salomonis",
+    "workId": "0527_033",
+    "wordCount": "6,945"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Ecclesiasticus sive Siracides (Sapientia Jesu filii Sirach)",
+    "workId": "0527_034",
+    "wordCount": "18,661"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Psalmi Salomonis",
+    "workId": "0527_035",
+    "wordCount": "4,928"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Osee",
+    "workId": "0527_036",
+    "wordCount": "3,942"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Amos",
+    "workId": "0527_037",
+    "wordCount": "3,211"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Michaeas",
+    "workId": "0527_038",
+    "wordCount": "2,369"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Joel",
+    "workId": "0527_039",
+    "wordCount": "1,581"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Abdias",
+    "workId": "0527_040",
+    "wordCount": "473"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Jonas",
+    "workId": "0527_041",
+    "wordCount": "1,091"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Nahum",
+    "workId": "0527_042",
+    "wordCount": "938"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Habacuc",
+    "workId": "0527_043",
+    "wordCount": "1,106"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Sophonias",
+    "workId": "0527_044",
+    "wordCount": "1,224"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Aggaeus",
+    "workId": "0527_045",
+    "wordCount": "948"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Zacharias",
+    "workId": "0527_046",
+    "wordCount": "4,964"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Malachias",
+    "workId": "0527_047",
+    "wordCount": "1,417"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Isaias",
+    "workId": "0527_048",
+    "wordCount": "27,077"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Jeremias",
+    "workId": "0527_049",
+    "wordCount": "28,952"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Baruch",
+    "workId": "0527_050",
+    "wordCount": "2,609"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Threni seu Lamentationes",
+    "workId": "0527_051",
+    "wordCount": "2,392"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Epistula Jeremiae",
+    "workId": "0527_052",
+    "wordCount": "1,287"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Ezechiel",
+    "workId": "0527_053",
+    "wordCount": "29,659"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Susanna (translatio Graeca)",
+    "workId": "0527_054",
+    "wordCount": "793"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Susanna (Theodotionis versio)",
+    "workId": "0527_055",
+    "wordCount": "1,135"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Daniel (translatio Graeca)",
+    "workId": "0527_056",
+    "wordCount": "10,782"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Daniel (Theodotionis versio)",
+    "workId": "0527_057",
+    "wordCount": "10,454"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Bel et Draco (translatio Graeca)",
+    "workId": "0527_058",
+    "wordCount": "904"
+  },
+  {
+    "author": "SEPTUAGINTA Relig. ",
+    "authorId": "0527",
+    "date": "vel Vetus Testamentum",
+    "geo": "vel Vetus Testamentum",
+    "title": "Bel et Draco (Theodotionis versio)",
+    "workId": "0527_059",
+    "wordCount": "874"
+  },
+  {
+    "author": "SERAPION Trag. ",
+    "authorId": "0347",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmentum",
+    "workId": "0347_001",
+    "wordCount": "fr. 1"
+  },
+  {
+    "author": "SERAPION Astrol. ",
+    "authorId": "1669",
+    "date": "fiq Serapion Alexandrinus",
+    "geo": "fiq Serapion Alexandrinus",
+    "title": "Fragmenta",
+    "workId": "1669_001",
+    "wordCount": "606"
+  },
+  {
+    "author": "SERAPION Astrol. ",
+    "authorId": "1669",
+    "date": "fiq Serapion Alexandrinus",
+    "geo": "fiq Serapion Alexandrinus",
+    "title": "Fragmenta",
+    "workId": "1669_002",
+    "wordCount": "319"
+  },
+  {
+    "author": "SERAPION Astrol. ",
+    "authorId": "1669",
+    "date": "fiq Serapion Alexandrinus",
+    "geo": "fiq Serapion Alexandrinus",
+    "title": "Fragmenta",
+    "workId": "1669_003",
+    "wordCount": "228"
+  },
+  {
+    "author": "SERAPION Astrol. ",
+    "authorId": "1669",
+    "date": "fiq Serapion Alexandrinus",
+    "geo": "fiq Serapion Alexandrinus",
+    "title": "Fragmenta",
+    "workId": "1669_004",
+    "wordCount": "1,945"
+  },
+  {
+    "author": "SEVERUS Iatrosophista Med. ",
+    "authorId": "0748",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "De instrumentis infusoriis seu clysteribus ad Timotheum",
+    "workId": "0748_001",
+    "wordCount": "9,139"
+  },
+  {
+    "author": "SOCRATES Hist. ",
+    "authorId": "1678",
+    "date": "ante 1 B.C.",
+    "geo": "ante 1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1678_003",
+    "wordCount": "frr. 1-13; Dup. 1678 002"
+  },
+  {
+    "author": "SOCRATES Hist. ",
+    "authorId": "1679",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1679_002",
+    "wordCount": "Περὶ ἐμφυλίου πολέμου (frr. 1-2): p. 326"
+  },
+  {
+    "author": "SORANUS Med. ",
+    "authorId": "0565",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Gynaeciorum libri iv",
+    "workId": "0565_001",
+    "wordCount": "41,123"
+  },
+  {
+    "author": "SORANUS Med. ",
+    "authorId": "0565",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De signis fracturarum",
+    "workId": "0565_002",
+    "wordCount": "1,137"
+  },
+  {
+    "author": "SORANUS Med. ",
+    "authorId": "0565",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "De fasciis",
+    "workId": "0565_003",
+    "wordCount": "2,657"
+  },
+  {
+    "author": "SORANUS Med. ",
+    "authorId": "0565",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Vita Hippocratis",
+    "workId": "0565_004",
+    "wordCount": "690"
+  },
+  {
+    "author": "SOSTRATUS Gramm. ",
+    "authorId": "1688",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1688_001",
+    "wordCount": "fr. 4: Dup. partim 1688 002 (fr. 735); fr. 7: Dup. partim SOSTRATUS Poeta (2694 001) (fr. 733)"
+  },
+  {
+    "author": "SOSTRATUS Gramm. ",
+    "authorId": "1688",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Titulus",
+    "workId": "1688_002",
+    "wordCount": "fr. 735; Dup. partim 1688 001 (fr. 4)"
+  },
+  {
+    "author": "SOSTRATUS Poeta ",
+    "authorId": "2694",
+    "date": "vel Sosicrates",
+    "geo": "vel Sosicrates",
+    "title": "Tituli",
+    "workId": "2694_001",
+    "wordCount": "fr. 732-733; fr. 733: Dup. partim SOSTRATUS Gramm. (1688 001) (fr. 7)"
+  },
+  {
+    "author": "SOTION Paradox. ",
+    "authorId": "0587",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Fragmenta",
+    "workId": "0587_001",
+    "wordCount": "1,253"
+  },
+  {
+    "author": "STESICLIDES Hist. ",
+    "authorId": "2171",
+    "date": "vel Ctesicles",
+    "geo": "vel Ctesicles",
+    "title": "Fragmenta",
+    "workId": "2171_002",
+    "wordCount": "frr. 1-2; Dup. 2171 001"
+  },
+  {
+    "author": "STHENIDAS Phil. ",
+    "authorId": "1695",
+    "date": "3 B.C./A.D. 2",
+    "geo": "3 B.C./A.D. 2",
+    "title": "Fragmentum",
+    "workId": "1695_001",
+    "wordCount": "195"
+  },
+  {
+    "author": "STRABO Geogr. ",
+    "authorId": "0099",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Geographica",
+    "workId": "0099_001",
+    "wordCount": "*1:xiii-xv = τῶν Στράβωνος γεωγραφικῶν κεφάλαια; *Lib. 1-6: vol. 1, pp. 1-396; *Lib. 7-12: vol. 2, pp. 397-814; *Lib. 13-17: vol. 3, pp. 815-1173"
+  },
+  {
+    "author": "STRABO Geogr. ",
+    "authorId": "0099",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Testimonia",
+    "workId": "0099_002",
+    "wordCount": "41"
+  },
+  {
+    "author": "STRABO Geogr. ",
+    "authorId": "0099",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Fragmenta",
+    "workId": "0099_003",
+    "wordCount": "1,632"
+  },
+  {
+    "author": "STRABO Geogr. ",
+    "authorId": "0099",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Chrestomathiae e Strabonis Geographicorum libris",
+    "workId": "0099_004",
+    "wordCount": "36,353"
+  },
+  {
+    "author": "Gaius SUETONIUS TRANQUILLUS Gramm., Hist. ",
+    "authorId": "1760",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Περὶ βλασφημιῶν καὶ πόθεν ἑκάστη",
+    "workId": "1760_001",
+    "wordCount": "3,197"
+  },
+  {
+    "author": "Gaius SUETONIUS TRANQUILLUS Gramm., Hist. ",
+    "authorId": "1760",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Περὶ τῶν παρ’ Ἕλλησι παιδιῶν",
+    "workId": "1760_002",
+    "wordCount": "2,243"
+  },
+  {
+    "author": "TESTAMENTA XII PATRIARCHARUM Hagiogr., Pseudepigr. ",
+    "authorId": "1700",
+    "date": "2 B.C./A.D. 3",
+    "geo": "2 B.C./A.D. 3",
+    "title": "Testamenta xii patriarcharum",
+    "workId": "1700_002",
+    "wordCount": "Other EditionTestamenta xii patriarcharum {1700.001}M. de Jonge, Testamenta xii patriarcharum, 2nd edn.  [Pseudepigrapha Veteris Testamenti Graece 1.  Leiden: Brill,  1970]: 1-86."
+  },
+  {
+    "author": "TESTAMENTUM ABRAHAE Hagiogr., Pseudepigr. ",
+    "authorId": "1701",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Testamentum Abrahae (recensio A) (olim partim sub auctore Hesychio Hierosolymitano)",
+    "workId": "1701_001",
+    "wordCount": "6,957"
+  },
+  {
+    "author": "TESTAMENTUM ABRAHAE Hagiogr., Pseudepigr. ",
+    "authorId": "1701",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "Testamentum Abrahae (recensio B)",
+    "workId": "1701_002",
+    "wordCount": "3,231"
+  },
+  {
+    "author": "TEUCER Astrol. ",
+    "authorId": "1703",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "De duodecim signis (Rhetorii Aegyptii excerpta) (e cod. Berol. 173)",
+    "workId": "1703_001",
+    "wordCount": "5,120"
+  },
+  {
+    "author": "TEUCER Astrol. ",
+    "authorId": "1703",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "De sideribus consurgentibus (fragmenta) (e cod. Danensi 2)",
+    "workId": "1703_002",
+    "wordCount": "855"
+  },
+  {
+    "author": "TEUCER Hist. ",
+    "authorId": "1704",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1704_003",
+    "wordCount": "frr. 1-3"
+  },
+  {
+    "author": "THALLUS Hist. ",
+    "authorId": "1706",
+    "date": "A.D. 1/2",
+    "geo": "A.D. 1/2",
+    "title": "Fragmenta",
+    "workId": "1706_003",
+    "wordCount": "frr. 1-8 (fr. 1a-d verba Latina solum)"
+  },
+  {
+    "author": "THEMISTOCLIS EPISTULAE Epist. ",
+    "authorId": "0055",
+    "date": "A.D. 1-2",
+    "geo": "A.D. 1-2",
+    "title": "Epistulae",
+    "workId": "0055_001",
+    "wordCount": "8,530"
+  },
+  {
+    "author": "THEODORUS Poeta ",
+    "authorId": "1987",
+    "date": "post 1 B.C.",
+    "geo": "post 1 B.C.",
+    "title": "Titulus",
+    "workId": "1987_002",
+    "wordCount": "titul. 749"
+  },
+  {
+    "author": "THEODOSIUS Astron., Math. ",
+    "authorId": "1719",
+    "date": "2-1 B.C.",
+    "geo": "2-1 B.C.",
+    "title": "Sphaerica",
+    "workId": "1719_001",
+    "wordCount": "*Lib. 1: pp. 2-40; *Lib. 2: pp. 42-110; *Lib. 3: pp. 112-164"
+  },
+  {
+    "author": "THEODOSIUS Astron., Math. ",
+    "authorId": "1719",
+    "date": "2-1 B.C.",
+    "geo": "2-1 B.C.",
+    "title": "De habitationibus",
+    "workId": "1719_002",
+    "wordCount": "4,215"
+  },
+  {
+    "author": "THEODOSIUS Astron., Math. ",
+    "authorId": "1719",
+    "date": "2-1 B.C.",
+    "geo": "2-1 B.C.",
+    "title": "De diebus et noctibus",
+    "workId": "1719_003",
+    "wordCount": "18,131"
+  },
+  {
+    "author": "THEODOTUS Judaeus Epic. ",
+    "authorId": "1720",
+    "date": "ante 1 B.C.",
+    "geo": "ante 1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1720_002",
+    "wordCount": "frr. 757-764; Dup. partim 1720 003"
+  },
+  {
+    "author": "Aelius THEON Rhet. ",
+    "authorId": "0607",
+    "date": "A.D. 1/2",
+    "geo": "A.D. 1/2",
+    "title": "Progymnasmata",
+    "workId": "0607_001",
+    "wordCount": "Cross ReferenceScholia:  Cf. SCHOLIA IN THEONEM RHETOREM {5046}"
+  },
+  {
+    "author": "THEON Gramm. ",
+    "authorId": "1838",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Testimonia",
+    "workId": "1838_001",
+    "wordCount": "202"
+  },
+  {
+    "author": "THEON Gramm. ",
+    "authorId": "1838",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Fragmenta",
+    "workId": "1838_002",
+    "wordCount": "992"
+  },
+  {
+    "author": "THEON Gramm. ",
+    "authorId": "1838",
+    "date": "1 B.C.-A.D. 1",
+    "geo": "1 B.C.-A.D. 1",
+    "title": "Commentarium de Pythiis xii Pindari (P. Oxy. 31.2536)",
+    "workId": "1838_003",
+    "wordCount": "259"
+  },
+  {
+    "author": "THEOPHANES Hist. ",
+    "authorId": "1981",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1981_003",
+    "wordCount": "frr. 1-7; Dup. partim 1981 002"
+  },
+  {
+    "author": "THESEUS Hist. ",
+    "authorId": "1728",
+    "date": "A.D. 1?",
+    "geo": "A.D. 1?",
+    "title": "Fragmenta",
+    "workId": "1728_003",
+    "wordCount": "frr. 1-3; Dup. 1728 002"
+  },
+  {
+    "author": "THESSALUS Astrol., Med. ",
+    "authorId": "1004",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "De virtutibus herbarum (e cod. Paris. gr. 2502 + Vindob. med. gr. 23)",
+    "workId": "1004_001",
+    "wordCount": "2,587"
+  },
+  {
+    "author": "THESSALUS Astrol., Med. ",
+    "authorId": "1004",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "De virtutibus herbarum (e cod. Matrit. Bibl. Nat. 4631 [olim 110])",
+    "workId": "1004_002",
+    "wordCount": "Epistula ad Caesarem Augustum (fort. Claudium vel Neronem): pp. 45-64"
+  },
+  {
+    "author": "THESSALUS Astrol., Med. ",
+    "authorId": "1004",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "De virtutibus herbarum (e cod. Monac. 542)",
+    "workId": "1004_003",
+    "wordCount": "2,180"
+  },
+  {
+    "author": "THESSALUS Astrol., Med. ",
+    "authorId": "1004",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "De virtutibus herbarum (e codd. Paris. gr. 2502 + Vindob. med. gr. 23 + Londin. reg. 16 C II)",
+    "workId": "1004_004",
+    "wordCount": "483"
+  },
+  {
+    "author": "THESSALUS Astrol., Med. ",
+    "authorId": "1004",
+    "date": "A.D. 1",
+    "geo": "A.D. 1",
+    "title": "De virtutibus herbarum (e codd. Paris. gr. 2256 + Venet. App. cl. V 13 + Mosq. 415)",
+    "workId": "1004_005",
+    "wordCount": "418"
+  },
+  {
+    "author": "THEUDO[TUS] Trag. ",
+    "authorId": "0816",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Titulus",
+    "workId": "0816_001",
+    "wordCount": "2"
+  },
+  {
+    "author": "THRASYLLUS Astrol. ",
+    "authorId": "1762",
+    "date": "fiq Thrasyllus Hist.",
+    "geo": "fiq Thrasyllus Hist.",
+    "title": "Fragmenta",
+    "workId": "1762_001",
+    "wordCount": "Cross ReferenceCf. et THRASYLLUS Hist. {2428}"
+  },
+  {
+    "author": "THRASYLLUS Hist. ",
+    "authorId": "2428",
+    "date": "fiq Thrasyllus Astrol.",
+    "geo": "fiq Thrasyllus Astrol.",
+    "title": "Fragmenta",
+    "workId": "2428_002",
+    "wordCount": "Cross ReferenceCf. et THRASYLLUS Astrol. {1762}"
+  },
+  {
+    "author": "TIMACHIDAS Gramm. ",
+    "authorId": "1732",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta et tituli",
+    "workId": "1732_002",
+    "wordCount": "frr. (+ titul.) 769-773"
+  },
+  {
+    "author": "TIMAGENES Hist. ",
+    "authorId": "1918",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1918_003",
+    "wordCount": "frr. 1-12 (frr. 1, 3, 7, 10-12 verba Latina); Dup. 1918 002"
+  },
+  {
+    "author": "TRYPHON I Gramm. ",
+    "authorId": "0609",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ τρόπων",
+    "workId": "0609_001",
+    "wordCount": "2,952"
+  },
+  {
+    "author": "TRYPHON I Gramm. ",
+    "authorId": "0609",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Περὶ παθῶν",
+    "workId": "0609_002",
+    "wordCount": "2,652"
+  },
+  {
+    "author": "TRYPHON I Gramm. ",
+    "authorId": "0609",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "0609_003",
+    "wordCount": "8,203"
+  },
+  {
+    "author": "TRYPHON II Gramm. ",
+    "authorId": "1763",
+    "date": "1 B.C.?",
+    "geo": "1 B.C.?",
+    "title": "De tropis (olim sub auctore Gregorio Corinthio)",
+    "workId": "1763_001",
+    "wordCount": "Dup. partim COMMENTARIA IN DIONYSII THRACIS ARTEM GRAMMATICAM (4175 005)"
+  },
+  {
+    "author": "TYRANNION Gramm. ",
+    "authorId": "1266",
+    "date": "1 B.C.",
+    "geo": "1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1266_001",
+    "wordCount": "frr. 1-63"
+  },
+  {
+    "author": "TYRANNION Junior Gramm. ",
+    "authorId": "1611",
+    "date": "vel Diocles Gramm.",
+    "geo": "vel Diocles Gramm.",
+    "title": "Fragmenta",
+    "workId": "1611_001",
+    "wordCount": "frr. 64-67"
+  },
+  {
+    "author": "VITAE ADAM ET EVAE Apocryph., Hagiogr. ",
+    "authorId": "1747",
+    "date": "vel Apocalypsis Mosis",
+    "geo": "vel Apocalypsis Mosis",
+    "title": "Vita Adam et Evae",
+    "workId": "1747_002",
+    "wordCount": "Other EditionVita Adam et Evae {1747.001}C. Tischendorf, Apocalypses apocryphae, Leipzig: Mendelssohn, 1866: 1-23."
+  },
+  {
+    "author": "VITAE ADAM ET EVAE Apocryph., Hagiogr. ",
+    "authorId": "1747",
+    "date": "vel Apocalypsis Mosis",
+    "geo": "vel Apocalypsis Mosis",
+    "title": "Narratio Adam et Evae (BHG 25)",
+    "workId": "1747_003",
+    "wordCount": "2,368"
+  },
+  {
+    "author": "VITAE BARTHOLOMAEI APOSTOLI Hagiogr. ",
+    "authorId": "5259",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Martyrium Bartholomaei apostoli (BHG 227)",
+    "workId": "5259_001",
+    "wordCount": "Cross ReferenceCf. EVANGELIUM BARTHOLOMAEI {1366}"
+  },
+  {
+    "author": "VITAE BARTHOLOMAEI APOSTOLI Hagiogr. ",
+    "authorId": "5259",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Reversio reliquiarum sancti apostoli Bartholomaei (fort. auctore Niceta Paphlagonio) (BHG 229)",
+    "workId": "5259_002",
+    "wordCount": "Cross ReferencesCf. EVANGELIUM BARTHOLOMAEI {1366}Cf. et NICETAS David Paphlagonius Phil. et Scr. Eccl. {2705}"
+  },
+  {
+    "author": "VITAE ET MIRACULA MARIAE DEIPARAE Hagiogr. ",
+    "authorId": "5202",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "De sacris aedibus deque miraculis Deiparae ad fontem (BHG 1072)",
+    "workId": "5202_001",
+    "wordCount": "8,209"
+  },
+  {
+    "author": "VITAE ET MIRACULA MARIAE DEIPARAE Hagiogr. ",
+    "authorId": "5202",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Miraculum Mariae Deiparae (sub auctore Elia presbytero et oeconomo Magnae Ecclesiae) (BHG 1075e)",
+    "workId": "5202_002",
+    "wordCount": "1,307"
+  },
+  {
+    "author": "VITAE SANCTAE MARIAE MAGDALENAE Hagiogr. ",
+    "authorId": "5216",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Vita sanctae Mariae Magdalenae (e cod. Oxon. Bodl. Holkham graec. 9)",
+    "workId": "5216_001",
+    "wordCount": "3,212"
+  },
+  {
+    "author": "VITAE SANCTI ANANIAE APOSTOLI Hagiogr. ",
+    "authorId": "5276",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Vita sancti Ananiae (BHG 75x)",
+    "workId": "5276_001",
+    "wordCount": "707"
+  },
+  {
+    "author": "VITAE SANCTI APOSTOLI LUCAE Hagiogr. ",
+    "authorId": "5280",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Dormitio sancti apostoli Lucae (BHG 992)",
+    "workId": "5280_001",
+    "wordCount": "Cross ReferenceCf. et LUCAS Apostolus Med. {0734}"
+  },
+  {
+    "author": "VITAE SANCTI APOSTOLI LUCAE Hagiogr. ",
+    "authorId": "5280",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Laudatio sancti apostoli Lucae (BHG 993)",
+    "workId": "5280_002",
+    "wordCount": "Cross ReferenceCf. et LUCAS Apostolus Med. {0734}"
+  },
+  {
+    "author": "VITAE SANCTI ARCHIPPI Hagiogr. ",
+    "authorId": "5247",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Vita sancti apostoli Archippi (BHG 2039)",
+    "workId": "5247_001",
+    "wordCount": "523"
+  },
+  {
+    "author": "VITAE SANCTI CONONIS ISAURIAE Hagiogr. ",
+    "authorId": "5408",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Vita sancti Cononis Isauriae (BHG 2077)",
+    "workId": "5408_001",
+    "wordCount": "Cross ReferenceCf. et VITAE SANCTI CONONIS {2008.001}"
+  },
+  {
+    "author": "VITAE SANCTI CORNELII CENTURIONIS Hagiogr. ",
+    "authorId": "5246",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Vita brevis et miracula sancti Cornelii centurionis (BHG 370z) (e cod. Athon. Philoth. gr. 8)",
+    "workId": "5246_001",
+    "wordCount": "1,243"
+  },
+  {
+    "author": "VITAE SANCTI DYSMAE BONI LATRONIS Hagiogr. ",
+    "authorId": "5237",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Narratio Dysmae boni latronis",
+    "workId": "5237_001",
+    "wordCount": "718"
+  },
+  {
+    "author": "VITAE SANCTI EUSTATHII ET SOCIORUM Hagiogr. ",
+    "authorId": "5278",
+    "date": "post A.D. 1-2",
+    "geo": "post A.D. 1-2",
+    "title": "Martyrium sanctorum Eustathii, Theopistes, ac liberorum (BHG 641)",
+    "workId": "5278_001",
+    "wordCount": "5,374"
+  },
+  {
+    "author": "VITAE SANCTI JACOBI FRATRIS DOMINI Hagiogr. ",
+    "authorId": "5203",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Passio sancti Jacobi fratris Domini (e cod. Achridensi 4 Mosin 76) (BHG 766m)",
+    "workId": "5203_001",
+    "wordCount": "1,289"
+  },
+  {
+    "author": "VITAE SANCTI ONESIMI Hagiogr. ",
+    "authorId": "5410",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Vita sancti Onesimi (e cod. Vind. Hist. gr. 3) (BHG 1376y)",
+    "workId": "5410_001",
+    "wordCount": "2,025"
+  },
+  {
+    "author": "VITAE SANCTI PHOCAE Hagiogr. ",
+    "authorId": "5220",
+    "date": "post A.D. 1-2",
+    "geo": "post A.D. 1-2",
+    "title": "Vita sancti Phocae (BHG 1535y) (e cod. Barb. III. 37)",
+    "workId": "5220_001",
+    "wordCount": "2,408"
+  },
+  {
+    "author": "VITAE SANCTI PHOCAE Hagiogr. ",
+    "authorId": "5220",
+    "date": "post A.D. 1-2",
+    "geo": "post A.D. 1-2",
+    "title": "Vita sancti Phocae (BHG 1535z) (e cod. Meermanno-Westereeniano 2)",
+    "workId": "5220_002",
+    "wordCount": "1,489"
+  },
+  {
+    "author": "VITAE SANCTORUM FLORI ET LAURI Hagiogr. ",
+    "authorId": "5430",
+    "date": "post A.D. 1/2",
+    "geo": "post A.D. 1/2",
+    "title": "Epitomi sanctorum Flori et Lauri (BHG 663) (e cod. Athen. Mus. Ben. 141)",
+    "workId": "5430_001",
+    "wordCount": "Cross ReferencesCf. et Constantinus ACROPOLITES Rhet. et Hagiogr. {3196.005}Cf. et MENOLOGII ANONYMI BYZANTINI {5341.005}"
+  },
+  {
+    "author": "VITAE SANCTORUM IOACHIM ET ANNAE Hagiogr. ",
+    "authorId": "5443",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Vita sanctorum Ioachimae et Annae (BHG 828b) (e cods. Vat. gr. 1246 et Mess. 29)",
+    "workId": "5443_001",
+    "wordCount": "1,688"
+  },
+  {
+    "author": "VITAE SANCTORUM LEONTII, HYPATII, THEODULI ET SOCIORUM Hagiogr. ",
+    "authorId": "5427",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Passio sanctorum Leontii, Hypatii, Theoduli et sociorum (BHG 986a) (e cod. Athon. Philoth. 8)",
+    "workId": "5427_001",
+    "wordCount": "4,711"
+  },
+  {
+    "author": "VITAE SANCTORUM NICANDRI ET HERMAEI Hagiogr. ",
+    "authorId": "5425",
+    "date": "post A.D. 1",
+    "geo": "post A.D. 1",
+    "title": "Vita sanctorum Nicandri et Hermaei (e cod. Vat. gr. 808)",
+    "workId": "5425_001",
+    "wordCount": "2,556"
+  },
+  {
+    "author": "XENAGORAS Geogr., Hist. ",
+    "authorId": "1752",
+    "date": "4/1 B.C.",
+    "geo": "4/1 B.C.",
+    "title": "Fragmenta",
+    "workId": "1752_003",
+    "wordCount": "frr. 1-13; frr. 7, 9 verba Latina solum"
+  },
+  {
+    "author": "ZENODORUS Gramm. ",
+    "authorId": "0597",
+    "date": "fiq Zenodotus Ephesius",
+    "geo": "fiq Zenodotus Ephesius",
+    "title": "Περὶ συνηθείας (e cod. Paris. suppl. gr. 1164 [olim cod. Athon.])",
+    "workId": "0597_001",
+    "wordCount": "1,203"
+  }
+]
