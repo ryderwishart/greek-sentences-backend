@@ -3,5 +3,5 @@
 
 [[redirects]]
   from = "/search/*"
-  to = "/.netlify/functions/app/search/:splat"
+  to = "/.netlify/functions/search/:splat"
   status = 200
