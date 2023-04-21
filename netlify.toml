@@ -1,5 +1,7 @@
 [build]
+  publish = "."
   functions = "functions"
+  environment = { NODE_VERSION = "14.x" }
 
 [[redirects]]
   from = "/search/*"
